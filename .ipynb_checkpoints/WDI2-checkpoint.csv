@@ -1,0 +1,1449 @@
+﻿Country Name,Country Code,Series Name,Series Code,2019 [YR2019],2020 [YR2020]
+Ukraine,UKR,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..
+Ukraine,UKR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,..
+Ukraine,UKR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,..
+Ukraine,UKR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,..
+Ukraine,UKR,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..
+Ukraine,UKR,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..
+Ukraine,UKR,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,..,..
+Ukraine,UKR,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,..,..
+Ukraine,UKR,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,..,..
+Ukraine,UKR,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,..,..
+Ukraine,UKR,"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,..,..
+Ukraine,UKR,"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,..,..
+Ukraine,UKR,"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,..,..
+Ukraine,UKR,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,3.66712478688946,..
+Ukraine,UKR,Adjusted net national income (constant 2010 US$),NY.ADJ.NNTY.KD,138562623414.791,..
+Ukraine,UKR,Adjusted net national income (current US$),NY.ADJ.NNTY.CD,138780220150.033,..
+Ukraine,UKR,Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG,4.26403238510784,..
+Ukraine,UKR,Adjusted net national income per capita (constant 2010 US$),NY.ADJ.NNTY.PC.KD,3296.92712305776,..
+Ukraine,UKR,Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD,3302.10456962039,..
+Ukraine,UKR,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,-1.06121557133454,..
+Ukraine,UKR,"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD,-1682387493.8595,..
+Ukraine,UKR,"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS,-1.27325022540956,..
+Ukraine,UKR,"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD,-2018534512.35079,..
+Ukraine,UKR,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.18195783996734,..
+Ukraine,UKR,Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD,8215165042.01383,..
+Ukraine,UKR,Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS,11.9221580541458,..
+Ukraine,UKR,Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD,18900674049.5596,..
+Ukraine,UKR,Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS,4.88300724584099,..
+Ukraine,UKR,Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD,7741226707.12155,..
+Ukraine,UKR,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.518428943046211,..
+Ukraine,UKR,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,821886140.568879,..
+Ukraine,UKR,Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS,11.69800979,..
+Ukraine,UKR,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0196927219642367,..
+Ukraine,UKR,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,31219659.838783,..
+Ukraine,UKR,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.538121665010448,..
+Ukraine,UKR,Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,0,..
+Ukraine,UKR,Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD,0,..
+Ukraine,UKR,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.224143312197738,..
+Ukraine,UKR,Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD,-355343358.559563,..
+Ukraine,UKR,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.212034654075018,..
+Ukraine,UKR,Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD,336147018.491289,..
+Ukraine,UKR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.2942,..
+Ukraine,UKR,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,..,..
+Ukraine,UKR,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,..,..
+Ukraine,UKR,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,..,..
+Ukraine,UKR,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,9800,9300
+Ukraine,UKR,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,9000,8500
+Ukraine,UKR,Age dependency ratio (% of working-age population),SP.POP.DPND,48.4664369582803,49.1194357512406
+Ukraine,UKR,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.8013042080974,25.274465631929
+Ukraine,UKR,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,23.6651327501828,23.8449701193116
+Ukraine,UKR,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,..,..
+Ukraine,UKR,Agricultural land (% of land area),AG.LND.AGRI.ZS,..,..
+Ukraine,UKR,Agricultural land (sq. km),AG.LND.AGRI.K2,..,..
+Ukraine,UKR,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,..,..
+Ukraine,UKR,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,..,..
+Ukraine,UKR,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,..,..
+Ukraine,UKR,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,..,..
+Ukraine,UKR,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,..,..
+Ukraine,UKR,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,..,..
+Ukraine,UKR,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,..,..
+Ukraine,UKR,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,..,..
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.96830308932376,9.26839642908065
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,1.01281103515485,-11.4628848498437
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added (constant 2010 US$)",NV.AGR.TOTL.KD,14650181105.0596,12970847714.6931
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,298098267386.685,263927606256.77
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,356795000000,388726000000
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,13804864270.901,14419957340.2578
+Ukraine,UKR,"Agriculture, forestry, and fishing, value added per worker (constant 2010 US$)",NV.AGR.EMPL.KD,5714.32599345918,..
+Ukraine,UKR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,75.617661,..
+Ukraine,UKR,"Air transport, passengers carried",IS.AIR.PSGR,7604522.332,..
+Ukraine,UKR,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,62113.332,..
+Ukraine,UKR,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,..,..
+Ukraine,UKR,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..
+Ukraine,UKR,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..
+Ukraine,UKR,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,..,..
+Ukraine,UKR,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,..,..
+Ukraine,UKR,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,..,..
+Ukraine,UKR,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,1.71,..
+Ukraine,UKR,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,2.82,..
+Ukraine,UKR,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,55,57
+Ukraine,UKR,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,93,95
+Ukraine,UKR,Aquaculture production (metric tons),ER.FSH.AQUA.MT,..,..
+Ukraine,UKR,Arable land (% of land area),AG.LND.ARBL.ZS,..,..
+Ukraine,UKR,Arable land (hectares per person),AG.LND.ARBL.HA.PC,..,..
+Ukraine,UKR,Arable land (hectares),AG.LND.ARBL.HA,..,..
+Ukraine,UKR,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..
+Ukraine,UKR,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,..,..
+Ukraine,UKR,"Armed forces personnel, total",MS.MIL.TOTL.P1,..,..
+Ukraine,UKR,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,96000000,115000000
+Ukraine,UKR,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,26000000,18000000
+Ukraine,UKR,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,96.2982476533098,93.7392277496164
+Ukraine,UKR,Average number of visits or required meetings with tax officials (for affected firms),IC.TAX.METG,1.8,..
+Ukraine,UKR,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,..,..
+Ukraine,UKR,Average time to clear exports through customs (days),IC.CUS.DURS.EX,3.9,..
+Ukraine,UKR,Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS,..,..
+Ukraine,UKR,Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS,6.453113,6.367748
+Ukraine,UKR,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,..,..
+Ukraine,UKR,"Average working hours of children, study and work, female, ages 7-14 (hours per week)",SL.TLF.0714.SW.FE.TM,..,..
+Ukraine,UKR,"Average working hours of children, study and work, male, ages 7-14 (hours per week)",SL.TLF.0714.SW.MA.TM,..,..
+Ukraine,UKR,"Average working hours of children, working only, ages 7-14 (hours per week)",SL.TLF.0714.WK.TM,..,..
+Ukraine,UKR,"Average working hours of children, working only, female, ages 7-14 (hours per week)",SL.TLF.0714.WK.FE.TM,..,..
+Ukraine,UKR,"Average working hours of children, working only, male, ages 7-14 (hours per week)",SL.TLF.0714.WK.MA.TM,..,..
+Ukraine,UKR,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,13.5050301872888,11.658462221108
+Ukraine,UKR,Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS,22.38327439433,20.7811860323307
+Ukraine,UKR,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,48.3585110566614,41.0040955414761
+Ukraine,UKR,Battle-related deaths (number of people),VC.BTL.DETH,234,195
+Ukraine,UKR,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),per_si_allsi.ben_q1_tot,..,..
+Ukraine,UKR,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),per_allsp.ben_q1_tot,..,..
+Ukraine,UKR,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),per_sa_allsa.ben_q1_tot,..,..
+Ukraine,UKR,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),per_lm_alllm.ben_q1_tot,..,..
+Ukraine,UKR,"Binding coverage, all products (%)",TM.TAX.MRCH.BC.ZS,100,..
+Ukraine,UKR,"Binding coverage, manufactured products (%)",TM.TAX.MANF.BC.ZS,100,..
+Ukraine,UKR,"Binding coverage, primary products (%)",TM.TAX.TCOM.BC.ZS,100,..
+Ukraine,UKR,"Bird species, threatened",EN.BIR.THRD.NO,..,..
+Ukraine,UKR,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.1,..
+Ukraine,UKR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..
+Ukraine,UKR,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,..,..
+Ukraine,UKR,"Bound rate, simple mean, all products (%)",TM.TAX.MRCH.BR.ZS,5.81,..
+Ukraine,UKR,"Bound rate, simple mean, manufactured products (%)",TM.TAX.MANF.BR.ZS,5.19,..
+Ukraine,UKR,"Bound rate, simple mean, primary products (%)",TM.TAX.TCOM.BR.ZS,7.5,..
+Ukraine,UKR,Bribery incidence (% of firms experiencing at least one bribe payment request),IC.FRM.BRIB.ZS,37.4,..
+Ukraine,UKR,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,36.1529952586089,44.1098899343349
+Ukraine,UKR,Broad money (current LCU),FM.LBL.BMNY.CN,1438310883878.48,1850013775933.74
+Ukraine,UKR,Broad money growth (annual %),FM.LBL.BMNY.ZG,12.5760074164158,28.6240545538446
+Ukraine,UKR,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,2.19813244366251,2.35527947714323
+Ukraine,UKR,Business extent of disclosure index (0=less disclosure to 10=more disclosure),IC.BUS.DISC.XQ,9,..
+Ukraine,UKR,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,..,..
+Ukraine,UKR,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,3.13381595554519,..
+Ukraine,UKR,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,5.01101815960154,..
+Ukraine,UKR,"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,91.8551649320085,..
+Ukraine,UKR,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,..,..
+Ukraine,UKR,"Central government debt, total (current LCU)",GC.DOD.TOTL.CN,..,..
+Ukraine,UKR,Cereal production (metric tons),AG.PRD.CREL.MT,..,..
+Ukraine,UKR,Cereal yield (kg per hectare),AG.YLD.CREL.KG,..,..
+Ukraine,UKR,Changes in inventories (constant LCU),NE.GDI.STKB.KN,-78400931973.0596,-152135532474.793
+Ukraine,UKR,Changes in inventories (current LCU),NE.GDI.STKB.CN,-109898000000,-233478000000
+Ukraine,UKR,Changes in inventories (current US$),NE.GDI.STKB.CD,-4252097068.74671,-8660966335.8991
+Ukraine,UKR,"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD,606000000,495000000
+Ukraine,UKR,"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,82000000,74000000
+Ukraine,UKR,Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN,..,..
+Ukraine,UKR,Child employment in agriculture (% of economically active children ages 7-14),SL.AGR.0714.ZS,..,..
+Ukraine,UKR,"Child employment in agriculture, female (% of female economically active children ages 7-14)",SL.AGR.0714.FE.ZS,..,..
+Ukraine,UKR,"Child employment in agriculture, male (% of male economically active children ages 7-14)",SL.AGR.0714.MA.ZS,..,..
+Ukraine,UKR,Child employment in manufacturing (% of economically active children ages 7-14),SL.MNF.0714.ZS,..,..
+Ukraine,UKR,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",SL.MNF.0714.FE.ZS,..,..
+Ukraine,UKR,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",SL.MNF.0714.MA.ZS,..,..
+Ukraine,UKR,Child employment in services (% of economically active children ages 7-14),SL.SRV.0714.ZS,..,..
+Ukraine,UKR,"Child employment in services, female (% of female economically active children ages 7-14)",SL.SRV.0714.FE.ZS,..,..
+Ukraine,UKR,"Child employment in services, male (% of male economically active children ages 7-14)",SL.SRV.0714.MA.ZS,..,..
+Ukraine,UKR,Children (0-14) living with HIV,SH.HIV.0014,3000,2900
+Ukraine,UKR,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,200,200
+Ukraine,UKR,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,..,..
+Ukraine,UKR,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,..,..
+Ukraine,UKR,"Children in employment, self-employed (% of children in employment, ages 7-14)",SL.SLF.0714.ZS,..,..
+Ukraine,UKR,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",SL.SLF.0714.FE.ZS,..,..
+Ukraine,UKR,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",SL.SLF.0714.MA.ZS,..,..
+Ukraine,UKR,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,..,..
+Ukraine,UKR,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,..,..
+Ukraine,UKR,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,..,..
+Ukraine,UKR,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,..,..
+Ukraine,UKR,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",SL.FAM.0714.ZS,..,..
+Ukraine,UKR,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",SL.FAM.0714.FE.ZS,..,..
+Ukraine,UKR,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",SL.FAM.0714.MA.ZS,..,..
+Ukraine,UKR,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..
+Ukraine,UKR,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",SL.WAG.0714.FE.ZS,..,..
+Ukraine,UKR,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",SL.WAG.0714.MA.ZS,..,..
+Ukraine,UKR,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,..,..
+Ukraine,UKR,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,..,..
+Ukraine,UKR,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,..,..
+Ukraine,UKR,Children out of school (% of primary school age),SE.PRM.UNER.ZS,..,..
+Ukraine,UKR,"Children out of school, female (% of female primary school age)",SE.PRM.UNER.FE.ZS,..,..
+Ukraine,UKR,"Children out of school, male (% of male primary school age)",SE.PRM.UNER.MA.ZS,..,..
+Ukraine,UKR,"Children out of school, primary",SE.PRM.UNER,..,..
+Ukraine,UKR,"Children out of school, primary, female",SE.PRM.UNER.FE,..,..
+Ukraine,UKR,"Children out of school, primary, male",SE.PRM.UNER.MA,..,..
+Ukraine,UKR,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS,..,..
+Ukraine,UKR,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,-4.04845136459774,14.1732756492395
+Ukraine,UKR,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,16.8680096523417,20.5849186248394
+Ukraine,UKR,Claims on other sectors of the domestic economy (% of GDP),FS.AST.DOMO.GD.ZS,31.7275113439986,..
+Ukraine,UKR,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,-7.95096064661509,-1.70683420049848
+Ukraine,UKR,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,-6.26374551300474,-1.80649350143868
+Ukraine,UKR,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,..,..
+Ukraine,UKR,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,..,..
+Ukraine,UKR,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,..,..
+Ukraine,UKR,CO2 emissions (kt),EN.ATM.CO2E.KT,..,..
+Ukraine,UKR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..
+Ukraine,UKR,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,..,..
+Ukraine,UKR,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,..,..
+Ukraine,UKR,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,..,..
+Ukraine,UKR,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,..,..
+Ukraine,UKR,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,..,..
+Ukraine,UKR,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,..,..
+Ukraine,UKR,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,..,..
+Ukraine,UKR,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,..,..
+Ukraine,UKR,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,..,..
+Ukraine,UKR,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,..,..
+Ukraine,UKR,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,..,..
+Ukraine,UKR,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,..,..
+Ukraine,UKR,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,0.274074525951366,..
+Ukraine,UKR,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,..,..
+Ukraine,UKR,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,0.42,0.41
+Ukraine,UKR,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,2162273000,..
+Ukraine,UKR,Commercial service exports (current US$),TX.VAL.SERV.CD.WT,17154000000,15224000000
+Ukraine,UKR,Commercial service imports (current US$),TM.VAL.SERV.CD.WT,14904000000,9982000000
+Ukraine,UKR,"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS,14.2284569138277,13.5147333806177
+Ukraine,UKR,"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS,10.8685968819599,13.4455352968677
+Ukraine,UKR,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..
+Ukraine,UKR,Compensation of employees (% of expense),GC.XPN.COMP.ZS,16.5951909999074,..
+Ukraine,UKR,Compensation of employees (current LCU),GC.XPN.COMP.CN,218186900000,..
+Ukraine,UKR,Completeness of birth registration (%),SP.REG.BRTH.ZS,..,..
+Ukraine,UKR,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..
+Ukraine,UKR,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..
+Ukraine,UKR,"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS,..,..
+Ukraine,UKR,"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS,..,..
+Ukraine,UKR,Completeness of death registration with cause-of-death information (%),SP.REG.DTHS.ZS,..,..
+Ukraine,UKR,"Compulsory education, duration (years)",SE.COM.DURS,11,..
+Ukraine,UKR,"Computer, communications and other services (% of commercial service exports)",TX.VAL.OTHR.ZS.WT,53.0546811239361,63.5444035733053
+Ukraine,UKR,"Computer, communications and other services (% of commercial service imports)",TM.VAL.OTHR.ZS.WT,21.5982286634461,28.1606892406331
+Ukraine,UKR,"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS,..,..
+Ukraine,UKR,"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS,..,..
+Ukraine,UKR,Consumer price index (2010 = 100),FP.CPI.TOTL,281.658595641646,289.354894500173
+Ukraine,UKR,Consumption of iodized salt (% of households),SN.ITK.SALT.ZS,..,..
+Ukraine,UKR,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1340400,..
+Ukraine,UKR,"Contraceptive prevalence, any methods (% of women ages 15-49)",SP.DYN.CONU.ZS,..,..
+Ukraine,UKR,"Contraceptive prevalence, modern methods (% of women ages 15-49)",SP.DYN.CONM.ZS,..,..
+Ukraine,UKR,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,0.230000004172325,..
+Ukraine,UKR,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.230000004172325,..
+Ukraine,UKR,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,0.230000004172325,..
+Ukraine,UKR,Cost of business start-up procedures (% of GNI per capita),IC.REG.COST.PC.ZS,0.5,..
+Ukraine,UKR,"Cost of business start-up procedures, female (% of GNI per capita)",IC.REG.COST.PC.FE.ZS,0.5,..
+Ukraine,UKR,"Cost of business start-up procedures, male (% of GNI per capita)",IC.REG.COST.PC.MA.ZS,0.5,..
+Ukraine,UKR,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,75,..
+Ukraine,UKR,"Cost to export, documentary compliance (US$)",IC.EXP.CSDC.CD,192,..
+Ukraine,UKR,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,100,..
+Ukraine,UKR,"Cost to import, documentary compliance (US$)",IC.IMP.CSDC.CD,162,..
+Ukraine,UKR,Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot,..,..
+Ukraine,UKR,Coverage of social insurance programs in 2nd quintile (% of population),per_si_allsi.cov_q2_tot,..,..
+Ukraine,UKR,Coverage of social insurance programs in 3rd quintile (% of population),per_si_allsi.cov_q3_tot,..,..
+Ukraine,UKR,Coverage of social insurance programs in 4th quintile (% of population),per_si_allsi.cov_q4_tot,..,..
+Ukraine,UKR,Coverage of social insurance programs in poorest quintile (% of population),per_si_allsi.cov_q1_tot,..,..
+Ukraine,UKR,Coverage of social insurance programs in richest quintile (% of population),per_si_allsi.cov_q5_tot,..,..
+Ukraine,UKR,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,..,..
+Ukraine,UKR,Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot,..,..
+Ukraine,UKR,Coverage of social safety net programs in 2nd quintile (% of population),per_sa_allsa.cov_q2_tot,..,..
+Ukraine,UKR,Coverage of social safety net programs in 3rd quintile (% of population),per_sa_allsa.cov_q3_tot,..,..
+Ukraine,UKR,Coverage of social safety net programs in 4th quintile (% of population),per_sa_allsa.cov_q4_tot,..,..
+Ukraine,UKR,Coverage of social safety net programs in poorest quintile (% of population),per_sa_allsa.cov_q1_tot,..,..
+Ukraine,UKR,Coverage of social safety net programs in richest quintile (% of population),per_sa_allsa.cov_q5_tot,..,..
+Ukraine,UKR,Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot,..,..
+Ukraine,UKR,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),per_lm_alllm.cov_q2_tot,..,..
+Ukraine,UKR,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),per_lm_alllm.cov_q3_tot,..,..
+Ukraine,UKR,Coverage of unemployment benefits and ALMP in 4th quintile (% of population),per_lm_alllm.cov_q4_tot,..,..
+Ukraine,UKR,Coverage of unemployment benefits and ALMP in poorest quintile (% of population),per_lm_alllm.cov_q1_tot,..,..
+Ukraine,UKR,Coverage of unemployment benefits and ALMP in richest quintile (% of population),per_lm_alllm.cov_q5_tot,..,..
+Ukraine,UKR,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,..,..
+Ukraine,UKR,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,..,..
+Ukraine,UKR,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,..,..
+Ukraine,UKR,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,..,..
+Ukraine,UKR,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,..,..
+Ukraine,UKR,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,..,..
+Ukraine,UKR,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,..,..
+Ukraine,UKR,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,..,..
+Ukraine,UKR,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,..,..
+Ukraine,UKR,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,..,..
+Ukraine,UKR,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,..,..
+Ukraine,UKR,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,..,..
+Ukraine,UKR,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,..,..
+Ukraine,UKR,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,..,..
+Ukraine,UKR,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,..,..
+Ukraine,UKR,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,..,..
+Ukraine,UKR,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,..,..
+Ukraine,UKR,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,..,..
+Ukraine,UKR,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,..,..
+Ukraine,UKR,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,..,..
+Ukraine,UKR,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,..,..
+Ukraine,UKR,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,-2.6791485388474,4.00046255432033
+Ukraine,UKR,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4124000000,6224000000
+Ukraine,UKR,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,..,..
+Ukraine,UKR,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,..,..
+Ukraine,UKR,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,..,..
+Ukraine,UKR,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,..,..
+Ukraine,UKR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,..,..
+Ukraine,UKR,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,..,..
+Ukraine,UKR,"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD,..,..
+Ukraine,UKR,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,3.91049532495447,..
+Ukraine,UKR,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,29855400000,..
+Ukraine,UKR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,14.7,..
+Ukraine,UKR,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,8.61604651676621,..
+Ukraine,UKR,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD,4676859476.9,..
+Ukraine,UKR,"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,13855927908.6,..
+Ukraine,UKR,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,25.8456,26.9575
+Ukraine,UKR,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS,..,..
+Ukraine,UKR,Deposit interest rate (%),FR.INR.DPST,12.8923166666667,6.08589166666667
+Ukraine,UKR,"Depositors with commercial banks (per 1,000 adults)",FB.CBK.DPTR.P3,1657.53,1727.18
+Ukraine,UKR,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,7,..
+Ukraine,UKR,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,6.1,..
+Ukraine,UKR,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS,..,..
+Ukraine,UKR,Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH,..,..
+Ukraine,UKR,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,..,..
+Ukraine,UKR,Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN,8583313485.79333,22415174799.9922
+Ukraine,UKR,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,333333.330078125,0
+Ukraine,UKR,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,48.5955209963403,..
+Ukraine,UKR,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,30.0179939493588,..
+Ukraine,UKR,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,22.8100363773536,21.0178905988479
+Ukraine,UKR,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,..,..
+Ukraine,UKR,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,..,..
+Ukraine,UKR,Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS,..,..
+Ukraine,UKR,Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD,..,..
+Ukraine,UKR,"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD,..,..
+Ukraine,UKR,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,..,..
+Ukraine,UKR,Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD,..,..
+Ukraine,UKR,"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD,..,..
+Ukraine,UKR,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,..,..
+Ukraine,UKR,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,64,..
+Ukraine,UKR,Ease of doing business score (0 = lowest performance to 100 = best performance),IC.BUS.DFRN.XQ,70.2106,..
+Ukraine,UKR,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",SE.TER.CUAT.ST.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.MS.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.MS.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,..,..
+Ukraine,UKR,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.DO.FE.ZS,..,..
+Ukraine,UKR,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.DO.MA.ZS,..,..
+Ukraine,UKR,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,..,..
+Ukraine,UKR,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..
+Ukraine,UKR,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,..,..
+Ukraine,UKR,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,..,..
+Ukraine,UKR,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,..,..
+Ukraine,UKR,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,..,..
+Ukraine,UKR,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,..,..
+Ukraine,UKR,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,..,..
+Ukraine,UKR,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,..,..
+Ukraine,UKR,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,..,..
+Ukraine,UKR,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,..,..
+Ukraine,UKR,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,0.560000002384186,..
+Ukraine,UKR,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,0.949999988079071,..
+Ukraine,UKR,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,0.769999980926514,..
+Ukraine,UKR,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,13.8199996948242,..
+Ukraine,UKR,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,11.4099998474121,..
+Ukraine,UKR,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,15.9899997711182,..
+Ukraine,UKR,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,24.9599990844727,..
+Ukraine,UKR,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,13.9899997711182,..
+Ukraine,UKR,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,34.810001373291,..
+Ukraine,UKR,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,61.2200012207031,..
+Ukraine,UKR,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,74.5999984741211,..
+Ukraine,UKR,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,49.2000007629395,..
+Ukraine,UKR,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.FE.ZS,43.19,..
+Ukraine,UKR,"Employment to population ratio, 15+, female (%) (national estimate)",SL.EMP.TOTL.SP.FE.NE.ZS,45.38,..
+Ukraine,UKR,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.MA.ZS,57.59,..
+Ukraine,UKR,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,59.29,..
+Ukraine,UKR,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,49.72,47.52
+Ukraine,UKR,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,51.7,..
+Ukraine,UKR,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS,23.6,..
+Ukraine,UKR,"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS,26.82,..
+Ukraine,UKR,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS,30.3,..
+Ukraine,UKR,"Employment to population ratio, ages 15-24, male (%) (national estimate)",SL.EMP.1524.SP.MA.NE.ZS,34.26,..
+Ukraine,UKR,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",SL.EMP.1524.SP.ZS,27.04,..
+Ukraine,UKR,"Employment to population ratio, ages 15-24, total (%) (national estimate)",SL.EMP.1524.SP.NE.ZS,30.64,..
+Ukraine,UKR,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,..,..
+Ukraine,UKR,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,..,..
+Ukraine,UKR,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,..,..
+Ukraine,UKR,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..
+Ukraine,UKR,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",EG.USE.COMM.GD.PP.KD,..,..
+Ukraine,UKR,Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS,..,..
+Ukraine,UKR,Expenditure on primary education (% of government expenditure on education),SE.XPD.PRIM.ZS,..,..
+Ukraine,UKR,Expenditure on secondary education (% of government expenditure on education),SE.XPD.SECO.ZS,..,..
+Ukraine,UKR,Expenditure on tertiary education (% of government expenditure on education),SE.XPD.TERT.ZS,..,..
+Ukraine,UKR,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,33.047448467772,..
+Ukraine,UKR,Expense (current LCU),GC.XPN.TOTL.CN,1314759800000,..
+Ukraine,UKR,Export unit value index (2000 = 100),TX.UVI.MRCH.XD.WD,247.729765,..
+Ukraine,UKR,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,343.564934,..
+Ukraine,UKR,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,138.6853671,..
+Ukraine,UKR,Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN,1376534670216.83,1446939418595.02
+Ukraine,UKR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.1986693814373,39.0405145129994
+Ukraine,UKR,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,7.33022030428225,-5.59489410926375
+Ukraine,UKR,"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD,63556000000,60673000000
+Ukraine,UKR,Exports of goods and services (constant 2010 US$),NE.EXP.GNFS.KD,45865993914.8805,43299840123.1816
+Ukraine,UKR,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,1292742631923.34,1220415050561.92
+Ukraine,UKR,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,1639048000000,1637399000000
+Ukraine,UKR,Exports of goods and services (current US$),NE.EXP.GNFS.CD,63416906552.7595,60740016692.9426
+Ukraine,UKR,"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD,76851000000,72721000000
+Ukraine,UKR,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,-8.01131040859723,-1.05212033469858
+Ukraine,UKR,External balance on goods and services (constant LCU),NE.RSB.GNFS.KN,-351466861215.6,-265518587355.54
+Ukraine,UKR,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,-318722000000,-44127000000
+Ukraine,UKR,External balance on goods and services (current US$),NE.RSB.GNFS.CD,-12331770204.5996,-1636909950.84856
+Ukraine,UKR,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,78.1174875792134,..
+Ukraine,UKR,"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD,90489073331.6,..
+Ukraine,UKR,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,52092964924.4,..
+Ukraine,UKR,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,38396108407.2,..
+Ukraine,UKR,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,22025369000,..
+Ukraine,UKR,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,123842830219.8,..
+Ukraine,UKR,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,..,..
+Ukraine,UKR,External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD,..,..
+Ukraine,UKR,"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD,..,..
+Ukraine,UKR,Female genital mutilation prevalence (%),SH.STA.FGMS.ZS,..,..
+Ukraine,UKR,Female headed households (% of households with a female head),SP.HOU.FEMA.ZS,..,..
+Ukraine,UKR,Female share of employment in senior and middle management (%),SL.EMP.SMGT.FE.ZS,..,..
+Ukraine,UKR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.228,..
+Ukraine,UKR,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,..,..
+Ukraine,UKR,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,..,..
+Ukraine,UKR,Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS,93.1254446406056,93.5409534627436
+Ukraine,UKR,Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG,5.27558726348379,0.483386474625732
+Ukraine,UKR,Final consumption expenditure (constant 2010 US$),NE.CON.TOTL.KD,140771740175.41,141452211727.513
+Ukraine,UKR,Final consumption expenditure (constant LCU),NE.CON.TOTL.KN,2484452925758.49,2496462435170.05
+Ukraine,UKR,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,3704903000000,3923203000000
+Ukraine,UKR,Final consumption expenditure (current US$),NE.CON.TOTL.CD,143347533042.375,145532894370.769
+Ukraine,UKR,Financial intermediary services indirectly Measured (FISIM) (constant LCU),NV.FSM.TOTL.KN,..,..
+Ukraine,UKR,Financial intermediary services indirectly Measured (FISIM) (current LCU),NV.FSM.TOTL.CN,..,..
+Ukraine,UKR,Firms competing against unregistered firms (% of firms),IC.FRM.CMPU.ZS,50.3,..
+Ukraine,UKR,Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS,36.3,..
+Ukraine,UKR,Firms experiencing electrical outages (% of firms),IC.ELC.OUTG.ZS,30.1,..
+Ukraine,UKR,Firms experiencing losses due to theft and vandalism (% of firms),IC.FRM.THEV.ZS,18.8,..
+Ukraine,UKR,Firms formally registered when operations started (% of firms),IC.FRM.FREG.ZS,92.8,..
+Ukraine,UKR,Firms offering formal training (% of firms),IC.FRM.TRNG.ZS,24.3,..
+Ukraine,UKR,Firms that do not report all sales for tax purposes (% of firms),IC.FRM.INFM.ZS,..,..
+Ukraine,UKR,Firms that spend on R&D (% of firms),IC.FRM.RSDV.ZS,9.9,..
+Ukraine,UKR,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,16.3,..
+Ukraine,UKR,Firms using banks to finance working capital (% of firms),IC.FRM.BKWC.ZS,21.5,..
+Ukraine,UKR,Firms visited or required meetings with tax officials (% of firms),IC.FRM.METG.ZS,32.8,..
+Ukraine,UKR,Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS,38.6,..
+Ukraine,UKR,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,17.7,..
+Ukraine,UKR,"Fish species, threatened",EN.FSH.THRD.NO,..,..
+Ukraine,UKR,Fixed broadband subscriptions,IT.NET.BBND,6784185,7769401
+Ukraine,UKR,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,16.15913118,18.61701348
+Ukraine,UKR,Fixed telephone subscriptions,IT.MLT.MAIN,4182994,3314263
+Ukraine,UKR,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.963399994,7.941626251
+Ukraine,UKR,Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN,..,..
+Ukraine,UKR,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,..,..
+Ukraine,UKR,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,..,..
+Ukraine,UKR,"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN,..,..
+Ukraine,UKR,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-5212000000,950000000
+Ukraine,UKR,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.78939704827761,..
+Ukraine,UKR,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,5833000000,..
+Ukraine,UKR,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,0.403431436135848,0.232674717973001
+Ukraine,UKR,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,621000000,362000000
+Ukraine,UKR,Forest area (% of land area),AG.LND.FRST.ZS,16.7138419054194,16.7241974456334
+Ukraine,UKR,Forest area (sq. km),AG.LND.FRST.K2,96840,96900
+Ukraine,UKR,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.274895734397042,..
+Ukraine,UKR,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,..,..
+Ukraine,UKR,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,..,..
+Ukraine,UKR,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,..,..
+Ukraine,UKR,GDP (constant 2010 US$),NY.GDP.MKTP.KD,135521189665.04,130072807270.765
+Ukraine,UKR,GDP (constant LCU),NY.GDP.MKTP.KN,2608843430148.61,2503959635596.81
+Ukraine,UKR,GDP (current LCU),NY.GDP.MKTP.CN,3978400333333.33,4194102000000
+Ukraine,UKR,GDP (current US$),NY.GDP.MKTP.CD,153929501862.341,155582008717.426
+Ukraine,UKR,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,152.496707443524,167.498786337279
+Ukraine,UKR,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,152.496707443524,167.498786337279
+Ukraine,UKR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.22148314495658,-4.02031771396206
+Ukraine,UKR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,3224.55994946203,3115.86076570536
+Ukraine,UKR,GDP per capita (constant LCU),NY.GDP.PCAP.KN,62074.2192425165,59981.711405867
+Ukraine,UKR,GDP per capita (current LCU),NY.GDP.PCAP.CN,94661.1405161123,100468.638629156
+Ukraine,UKR,GDP per capita (current US$),NY.GDP.PCAP.CD,3662.56308679667,3726.92714937055
+Ukraine,UKR,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,3.81582477172795,-3.37097729489649
+Ukraine,UKR,"GDP per capita, PPP (constant 2017 international $)",NY.GDP.PCAP.PP.KD,12808.7989991273,12377.0172931178
+Ukraine,UKR,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,13350.4823150166,13056.7020745176
+Ukraine,UKR,GDP per person employed (constant 2017 PPP $),SL.GDP.PCAP.EM.KD,29018.5169414487,29325.1075876697
+Ukraine,UKR,GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,..,..
+Ukraine,UKR,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,..,..
+Ukraine,UKR,"GDP, PPP (constant 2017 international $)",NY.GDP.MKTP.PP.KD,538325757854.713,516683352052.86
+Ukraine,UKR,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,561091520793.396,545057054931.034
+Ukraine,UKR,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,3978400333333.32,4194102000000.01
+Ukraine,UKR,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,18.7709616285474,19.2584252838868
+Ukraine,UKR,General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG,-13.6294735760348,-3.04679800317095
+Ukraine,UKR,General government final consumption expenditure (constant 2010 US$),NE.CON.GOVT.KD,24692823168.1733,23940482724.9589
+Ukraine,UKR,General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN,402712529174.012,390442691876.619
+Ukraine,UKR,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,746784000000,807718000000
+Ukraine,UKR,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,28894047729.5942,29962644904.0156
+Ukraine,UKR,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,..,..
+Ukraine,UKR,Gini index (World Bank estimate),SI.POV.GINI,26.6,..
+Ukraine,UKR,GNI (constant 2010 US$),NY.GNP.MKTP.KD,139617464439.578,132112906484.752
+Ukraine,UKR,GNI (constant LCU),NY.GNP.MKTP.KN,2690773452068.05,2546142080946.92
+Ukraine,UKR,GNI (current LCU),NY.GNP.MKTP.CN,4097674000000,4259182000000
+Ukraine,UKR,GNI (current US$),NY.GNP.MKTP.CD,158544355712.384,157996179170.917
+Ukraine,UKR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.68473019851751,-5.37508540564686
+Ukraine,UKR,GNI per capita (constant 2010 US$),NY.GNP.PCAP.KD,3322.02576726229,3164.73081958046
+Ukraine,UKR,GNI per capita (constant LCU),NY.GNP.PCAP.KN,64023.6432993224,60992.1810745528
+Ukraine,UKR,GNI per capita (current LCU),NY.GNP.PCAP.CN,97499.1106483805,102027.613351751
+Ukraine,UKR,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.28173916738686,-4.7349105245338
+Ukraine,UKR,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,3370,3540
+Ukraine,UKR,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,13199.610722084,12574.6209648065
+Ukraine,UKR,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,13750,13260
+Ukraine,UKR,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,141538700916.042,147690607856.396
+Ukraine,UKR,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,554750718302.097,524932393404.92
+Ukraine,UKR,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,577913217307.918,553514720751.968
+Ukraine,UKR,GNI: linked series (current LCU),NY.GNP.MKTP.CN.AD,4097673999999.99,4259182000000.01
+Ukraine,UKR,Goods and services expense (% of expense),GC.XPN.GSRV.ZS,13.9384623716058,..
+Ukraine,UKR,Goods and services expense (current LCU),GC.XPN.GSRV.CN,183257300000,..
+Ukraine,UKR,"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD,46091000000,45164000000
+Ukraine,UKR,"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD,60352000000,51768000000
+Ukraine,UKR,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,..,..
+Ukraine,UKR,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,..,..
+Ukraine,UKR,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS,..,..
+Ukraine,UKR,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS,..,..
+Ukraine,UKR,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS,..,..
+Ukraine,UKR,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,18.3926307412825,..
+Ukraine,UKR,Grants and other revenue (current LCU),GC.REV.GOTR.CN,234940200000,..
+Ukraine,UKR,"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD,742510000,..
+Ukraine,UKR,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,14.8858573894147,7.51116687195495
+Ukraine,UKR,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,-9.4764136046939,-46.3696706792588
+Ukraine,UKR,Gross capital formation (constant 2010 US$),NE.GDI.TOTL.KD,25520443379.7439,13686697828.6699
+Ukraine,UKR,Gross capital formation (constant LCU),NE.GDI.TOTL.KN,467274052120.317,250600612982.498
+Ukraine,UKR,Gross capital formation (current LCU),NE.GDI.TOTL.CN,592219000000,315026000000
+Ukraine,UKR,Gross capital formation (current US$),NE.GDI.TOTL.CD,22913726127.4646,11686024297.5053
+Ukraine,UKR,Gross domestic income (constant LCU),NY.GDY.TOTL.KN,2692635468442.09,2730484003629.91
+Ukraine,UKR,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,6.87455535939437,6.45904653725637
+Ukraine,UKR,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,273497333333.33,270899000000
+Ukraine,UKR,Gross domestic savings (current US$),NY.GDS.TOTL.CD,10581968819.9667,10049114346.6568
+Ukraine,UKR,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,17.6105203423051,13.0396685631394
+Ukraine,UKR,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,11.7285483275401,-24.4438830345253
+Ukraine,UKR,Gross fixed capital formation (constant 2010 US$),NE.GDI.FTOT.KD,30411226435.7962,22977541816.4655
+Ukraine,UKR,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,557424481976.848,421168293596.619
+Ukraine,UKR,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,700617000000,546897000000
+Ukraine,UKR,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,27107786238.2765,20287378280.6269
+Ukraine,UKR,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,..,..
+Ukraine,UKR,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,..,..
+Ukraine,UKR,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",SE.PRM.GINT.FE.ZS,..,..
+Ukraine,UKR,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",SE.PRM.GINT.MA.ZS,..,..
+Ukraine,UKR,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",SE.PRM.GINT.ZS,..,..
+Ukraine,UKR,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,108.01130203002,101.052120334699
+Ukraine,UKR,Gross national expenditure (constant 2010 US$),NE.DAB.TOTL.KD,166292183555.154,155138909556.183
+Ukraine,UKR,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,2951726977878.81,2747063048152.55
+Ukraine,UKR,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,4297122000000,4238229000000
+Ukraine,UKR,Gross national expenditure (current US$),NE.DAB.TOTL.CD,166261259169.839,157218918668.274
+Ukraine,UKR,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,145.579927689926,154.282188858035
+Ukraine,UKR,Gross savings (% of GDP),NY.GNS.ICTR.ZS,14.071261459275,10.4287667538844
+Ukraine,UKR,Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS,13.6616800848481,10.2694159347969
+Ukraine,UKR,Gross savings (current LCU),NY.GNS.ICTR.CN,559811112800,437393115000
+Ukraine,UKR,Gross savings (current US$),NY.GNS.ICTR.CD,21659822670.0096,16225284800.1484
+Ukraine,UKR,Gross value added at basic prices (GVA) (constant 2010 US$),NY.GDP.FCST.KD,122575246890.609,117847898664.167
+Ukraine,UKR,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,2232916248324.95,2146799573595.89
+Ukraine,UKR,Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN,3422830333333.33,3597228000000
+Ukraine,UKR,Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD,132433773382.445,133440712232.217
+Ukraine,UKR,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,..,..
+Ukraine,UKR,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,..,..
+Ukraine,UKR,High-technology exports (current US$),TX.VAL.TECH.CD,1247990022,1248167887
+Ukraine,UKR,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..
+Ukraine,UKR,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,74.3544830120583,74.2825281788569
+Ukraine,UKR,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,10.9335724095419,1.43188245912238
+Ukraine,UKR,Households and NPISHs Final consumption expenditure (constant 2010 US$),NE.CON.PRVT.KD,116103197700.001,117765659022.348
+Ukraine,UKR,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,2106138188977.03,2136295612269.87
+Ukraine,UKR,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,2958119000000,3115485000000
+Ukraine,UKR,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,114453485312.781,115570249466.753
+Ukraine,UKR,Households and NPISHs Final consumption expenditure per capita (constant 2010 US$),NE.CON.PRVT.PC.KD,2762.53272446349,2821.04618324512
+Ukraine,UKR,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,11.5723196730057,2.11810916350299
+Ukraine,UKR,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",NE.CON.PRVT.PP.KD,346457141735.737,351418000776.628
+Ukraine,UKR,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,367908236551.031,381826727463.522
+Ukraine,UKR,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,2958118999999.99,3115485000000.01
+Ukraine,UKR,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,0.631387114524841
+Ukraine,UKR,"Human capital index (HCI), female (scale 0-1)",HD.HCI.OVRL.FE,..,0.676541686058044
+Ukraine,UKR,"Human capital index (HCI), female, lower bound (scale 0-1)",HD.HCI.OVRL.LB.FE,..,0.664468288421631
+Ukraine,UKR,"Human capital index (HCI), female, upper bound (scale 0-1)",HD.HCI.OVRL.UB.FE,..,0.688522815704346
+Ukraine,UKR,"Human capital index (HCI), lower bound (scale 0-1)",HD.HCI.OVRL.LB,..,0.620419085025787
+Ukraine,UKR,"Human capital index (HCI), male (scale 0-1)",HD.HCI.OVRL.MA,..,0.589480102062225
+Ukraine,UKR,"Human capital index (HCI), male, lower bound (scale 0-1)",HD.HCI.OVRL.LB.MA,..,0.575456857681274
+Ukraine,UKR,"Human capital index (HCI), male, upper bound (scale 0-1)",HD.HCI.OVRL.UB.MA,..,0.603257536888123
+Ukraine,UKR,"Human capital index (HCI), upper bound (scale 0-1)",HD.HCI.OVRL.UB,..,0.642555415630341
+Ukraine,UKR,"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD,5281571000,..
+Ukraine,UKR,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,..,..
+Ukraine,UKR,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,..,..
+Ukraine,UKR,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,..,..
+Ukraine,UKR,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,..,..
+Ukraine,UKR,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,..,..
+Ukraine,UKR,"IFC, private nonguaranteed (NFL, current US$)",DT.NFL.NIFC.CD,-50686968,..
+Ukraine,UKR,"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD,1944658431.7,..
+Ukraine,UKR,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,80,..
+Ukraine,UKR,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,76,..
+Ukraine,UKR,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,93,..
+Ukraine,UKR,Import unit value index (2000 = 100),TM.UVI.MRCH.XD.WD,293.7197375,..
+Ukraine,UKR,Import value index (2000 = 100),TM.VAL.MRCH.XD.WD,434.2719977,..
+Ukraine,UKR,Import volume index (2000 = 100),TM.QTY.MRCH.XD.WD,147.8525078,..
+Ukraine,UKR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,49.2099797900346,40.092634847698
+Ukraine,UKR,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,5.72228628932669,-9.62625844711052
+Ukraine,UKR,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,76067000000,62463000000
+Ukraine,UKR,Imports of goods and services (constant 2010 US$),NE.IMP.GNFS.KD,69783711480.1354,63066151059.0716
+Ukraine,UKR,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,1644209493138.94,1485933637917.46
+Ukraine,UKR,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,1957770000000,1681526000000
+Ukraine,UKR,Imports of goods and services (current US$),NE.IMP.GNFS.CD,75748676757.3591,62376926643.7912
+Ukraine,UKR,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,87438000000,70259000000
+Ukraine,UKR,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3,0.24,0.23
+Ukraine,UKR,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,0.43,0.41
+Ukraine,UKR,"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3,0.22,0.21
+Ukraine,UKR,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,..,..
+Ukraine,UKR,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,77,..
+Ukraine,UKR,Income share held by fourth 20%,SI.DST.04TH.20,22.2,..
+Ukraine,UKR,Income share held by highest 10%,SI.DST.10TH.10,22.3,..
+Ukraine,UKR,Income share held by highest 20%,SI.DST.05TH.20,36.5,..
+Ukraine,UKR,Income share held by lowest 10%,SI.DST.FRST.10,4.1,..
+Ukraine,UKR,Income share held by lowest 20%,SI.DST.FRST.20,9.7,..
+Ukraine,UKR,Income share held by second 20%,SI.DST.02ND.20,14,..
+Ukraine,UKR,Income share held by third 20%,SI.DST.03RD.20,17.5,..
+Ukraine,UKR,Increase in poverty gap at $1.90 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (% of poverty line),SH.UHC.NOP1.ZG,..,..
+Ukraine,UKR,Increase in poverty gap at $1.90 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (USD),SH.UHC.NOP1.CG,..,..
+Ukraine,UKR,Increase in poverty gap at $3.20 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (% of poverty line),SH.UHC.NOP2.ZG,..,..
+Ukraine,UKR,Increase in poverty gap at $3.20 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (USD),SH.UHC.NOP2.CG,..,..
+Ukraine,UKR,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.1248443,..
+Ukraine,UKR,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,2964,..
+Ukraine,UKR,"Industrial design applications, resident, by count",IP.IDS.RSCT,4660,..
+Ukraine,UKR,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.6059200846303,20.8599361675038
+Ukraine,UKR,"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG,2.35192484337992,-3.3008864132712
+Ukraine,UKR,"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,27647627770.5323,26735010981.863
+Ukraine,UKR,"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,592698404303.579,573134103204.247
+Ukraine,UKR,"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN,899354000000,874887000000
+Ukraine,UKR,"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,34797180177.6705,32454307706.5752
+Ukraine,UKR,"Industry (including construction), value added per worker (constant 2010 US$)",NV.IND.EMPL.KD,5970.94899368891,..
+Ukraine,UKR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.8867174561113,2.7324920941942
+Ukraine,UKR,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,8.24695489710588,9.83764118271876
+Ukraine,UKR,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,8.24695489710588,9.83764118271876
+Ukraine,UKR,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,24.3,..
+Ukraine,UKR,Insurance and financial services (% of commercial service exports),TX.VAL.INSF.ZS.WT,1.04931794333683,0.952443510246978
+Ukraine,UKR,Insurance and financial services (% of commercial service imports),TM.VAL.INSF.ZS.WT,4.37466451959206,7.02264075335604
+Ukraine,UKR,"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS,1.03063269395935,0.934941001998839
+Ukraine,UKR,"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS,4.1489023226217,6.55446470313231
+Ukraine,UKR,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,..,..
+Ukraine,UKR,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,..,..
+Ukraine,UKR,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,..,..
+Ukraine,UKR,Interest payments (% of expense),GC.XPN.INTP.ZS,9.12210732333009,..
+Ukraine,UKR,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,9.38918966102365,..
+Ukraine,UKR,Interest payments (current LCU),GC.XPN.INTP.CN,119933800000,..
+Ukraine,UKR,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,6.9293916666666,8.20650833333333
+Ukraine,UKR,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,60,74
+Ukraine,UKR,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,..,2000
+Ukraine,UKR,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV,730000,734000
+Ukraine,UKR,International migrant stock (% of population),SM.POP.TOTL.ZS,..,..
+Ukraine,UKR,"International migrant stock, total",SM.POP.TOTL,..,..
+Ukraine,UKR,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,11.7094140691759,..
+Ukraine,UKR,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,8907000000,..
+Ukraine,UKR,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,390000000,..
+Ukraine,UKR,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,8517000000,..
+Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,13710000,..
+Ukraine,UKR,"International tourism, number of departures",ST.INT.DPRT,29346000,..
+Ukraine,UKR,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,4.0782931587891,..
+Ukraine,UKR,"International tourism, receipts (current US$)",ST.INT.RCPT.CD,2592000000,..
+Ukraine,UKR,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,972000000,..
+Ukraine,UKR,"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD,1620000000,..
+Ukraine,UKR,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1409010000,15000000
+Ukraine,UKR,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,..,..
+Ukraine,UKR,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,..,15000000
+Ukraine,UKR,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,..,..
+Ukraine,UKR,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.91,..
+Ukraine,UKR,"Labor force participation rate for ages 15-24, female (%) (national estimate)",SL.TLF.ACTI.1524.FE.NE.ZS,31.67,..
+Ukraine,UKR,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.9,..
+Ukraine,UKR,"Labor force participation rate for ages 15-24, male (%) (national estimate)",SL.TLF.ACTI.1524.MA.NE.ZS,40.53,..
+Ukraine,UKR,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.02,..
+Ukraine,UKR,"Labor force participation rate for ages 15-24, total (%) (national estimate)",SL.TLF.ACTI.1524.NE.ZS,36.22,..
+Ukraine,UKR,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.87,..
+Ukraine,UKR,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS,49.24,..
+Ukraine,UKR,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,60.83,..
+Ukraine,UKR,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.95,..
+Ukraine,UKR,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS,64.79,..
+Ukraine,UKR,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,72.86,..
+Ukraine,UKR,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,54.16,52.49
+Ukraine,UKR,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS,56.32,..
+Ukraine,UKR,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.64,..
+Ukraine,UKR,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,67.6900024414063,..
+Ukraine,UKR,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,62.4500007629395,..
+Ukraine,UKR,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,75.4599990844727,..
+Ukraine,UKR,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,34.3300018310547,..
+Ukraine,UKR,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,26.6499996185303,..
+Ukraine,UKR,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,44.4900016784668,..
+Ukraine,UKR,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,65.6900024414063,..
+Ukraine,UKR,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,56.7599983215332,..
+Ukraine,UKR,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,71.879997253418,..
+Ukraine,UKR,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.2989244510813,..
+Ukraine,UKR,"Labor force, total",SL.TLF.TOTL.IN,20207728,19461889
+Ukraine,UKR,Labor tax and contributions (% of commercial profits),IC.TAX.LABR.CP.ZS,33.8,..
+Ukraine,UKR,Land area (sq. km),AG.LND.TOTL.K2,579400,579400
+Ukraine,UKR,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,..,..
+Ukraine,UKR,Land under cereal production (hectares),AG.LND.CREL.HA,..,..
+Ukraine,UKR,"Lead time to export, median case (days)",LP.EXP.DURS.MD,..,..
+Ukraine,UKR,"Lead time to import, median case (days)",LP.IMP.DURS.MD,..,..
+Ukraine,UKR,Lending interest rate (%),FR.INR.LEND,19.8217083333333,14.2924
+Ukraine,UKR,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,..,..
+Ukraine,UKR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.98,..
+Ukraine,UKR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.92,..
+Ukraine,UKR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8273170731707,..
+Ukraine,UKR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..
+Ukraine,UKR,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..
+Ukraine,UKR,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,26.8797729805,..
+Ukraine,UKR,"Listed domestic companies, total",CM.MKT.LDOM.NO,..,..
+Ukraine,UKR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..
+Ukraine,UKR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..
+Ukraine,UKR,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..
+Ukraine,UKR,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,..,..
+Ukraine,UKR,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..
+Ukraine,UKR,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..
+Ukraine,UKR,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,..,..
+Ukraine,UKR,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,..,..
+Ukraine,UKR,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),LP.LPI.TRAC.XQ,..,..
+Ukraine,UKR,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),LP.LPI.LOGS.XQ,..,..
+Ukraine,UKR,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),LP.LPI.ITRN.XQ,..,..
+Ukraine,UKR,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),LP.LPI.CUST.XQ,..,..
+Ukraine,UKR,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),LP.LPI.TIME.XQ,..,..
+Ukraine,UKR,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,..,..
+Ukraine,UKR,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,..,..
+Ukraine,UKR,Losses due to theft and vandalism (% of annual sales of affected firms),IC.FRM.CRIM.ZS,3.5,..
+Ukraine,UKR,Low-birthweight babies (% of births),SH.STA.BRTW.ZS,..,..
+Ukraine,UKR,"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS,..,..
+Ukraine,UKR,"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS,..,..
+Ukraine,UKR,"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS,..,..
+Ukraine,UKR,Lower secondary school starting age (years),SE.SEC.AGES,10,10
+Ukraine,UKR,Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN,..,..
+Ukraine,UKR,"Mammal species, threatened",EN.MAM.THRD.NO,..,..
+Ukraine,UKR,Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN,..,..
+Ukraine,UKR,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,..,..
+Ukraine,UKR,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,10.8140952129755,10.1348751174864
+Ukraine,UKR,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,0.912102307111027,-6.01773943118556
+Ukraine,UKR,"Manufacturing, value added (constant 2010 US$)",NV.IND.MANF.KD,14150872908.6105,13299310249.7321
+Ukraine,UKR,"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN,311877410448.519,293109440542.998
+Ukraine,UKR,"Manufacturing, value added (current LCU)",NV.IND.MANF.CN,430228000000,425067000000
+Ukraine,UKR,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,16646082892.2525,15768042288.7879
+Ukraine,UKR,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,..,..
+Ukraine,UKR,Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS,..,..
+Ukraine,UKR,Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD,..,..
+Ukraine,UKR,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..
+Ukraine,UKR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,..,..
+Ukraine,UKR,Medium and high-tech exports (% manufactured exports),TX.MNF.TECH.ZS.UN,..,..
+Ukraine,UKR,Medium and high-tech Industry (including construction) (% manufacturing value added),NV.MNF.TECH.ZS.UN,..,..
+Ukraine,UKR,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,50066000000,49220000000
+Ukraine,UKR,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,49886456338,..
+Ukraine,UKR,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,0.0125955408767203,..
+Ukraine,UKR,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,13.4897165302838,..
+Ukraine,UKR,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,49.2189737283399,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,10.5771215763439,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS,21.2551681425466,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,0.725565848068236,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,10.7428519490123,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,5.23837830310953,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,2.22934491170272,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,29.5132625882367,..
+Ukraine,UKR,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,21.2551681425466,..
+Ukraine,UKR,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,60607000000,53929000000
+Ukraine,UKR,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,60481411626,..
+Ukraine,UKR,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,0.00135857444115403,..
+Ukraine,UKR,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,0.932098623104317,..
+Ukraine,UKR,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,53.1666432123695,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,17.4144652511256,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS,24.9713408003649,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1.39225461569421,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,0.537923486329707,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1.57641481302684,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,0.939599246648046,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,21.8606574128244,..
+Ukraine,UKR,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,24.9713408003649,..
+Ukraine,UKR,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,71.8984981182974,66.2987969176715
+Ukraine,UKR,Methane emissions (% change from 1990),EN.ATM.METH.ZG,..,..
+Ukraine,UKR,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,..,..
+Ukraine,UKR,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,..,..
+Ukraine,UKR,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,100,100
+Ukraine,UKR,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,3.52248527087751,4.12919832120276
+Ukraine,UKR,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,8.49820549502351,8.80338687639974
+Ukraine,UKR,Military expenditure (current LCU),MS.MIL.XPND.CN,135026558381.6,..
+Ukraine,UKR,Military expenditure (current USD),MS.MIL.XPND.CD,5419138048.44591,5924200880.3055
+Ukraine,UKR,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.085413978069955,..
+Ukraine,UKR,Mobile cellular subscriptions,IT.CEL.SETS,54842940,53977690
+Ukraine,UKR,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,130.6294363,129.3411657
+Ukraine,UKR,Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS,22.8135833723721,21.020773559727
+Ukraine,UKR,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.2,..
+Ukraine,UKR,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS,25.5,..
+Ukraine,UKR,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,16,..
+Ukraine,UKR,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS,36.9,..
+Ukraine,UKR,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5,..,..
+Ukraine,UKR,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5,..,..
+Ukraine,UKR,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5,..,..
+Ukraine,UKR,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,2.5,..
+Ukraine,UKR,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,1,..
+Ukraine,UKR,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA,4.3,..
+Ukraine,UKR,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,..,..
+Ukraine,UKR,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,..,..
+Ukraine,UKR,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,..,..
+Ukraine,UKR,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,7.2,..
+Ukraine,UKR,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,6.4,..
+Ukraine,UKR,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,7.9,..
+Ukraine,UKR,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,5,..
+Ukraine,UKR,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.4,..
+Ukraine,UKR,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,7.5,..
+Ukraine,UKR,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,9.2,..
+Ukraine,UKR,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,..,..
+Ukraine,UKR,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,..,..
+Ukraine,UKR,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,..,..
+Ukraine,UKR,"Multidimensional poverty headcount ratio, household (% of total households)",SI.POV.MDIM.HH,..,..
+Ukraine,UKR,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,..,..
+Ukraine,UKR,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ,..,..
+Ukraine,UKR,"Multidimensional poverty index, children (population ages 0-17) (scale 0-1)",SI.POV.MDIM.17.XQ,..,..
+Ukraine,UKR,Multidimensional poverty intensity (average share of deprivations experienced by the poor),SI.POV.MDIM.IT,..,..
+Ukraine,UKR,Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS,26.6019801032094,..
+Ukraine,UKR,"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD,1244137227.5,..
+Ukraine,UKR,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.883934399398612,..
+Ukraine,UKR,Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS,0.0715865614663717,..
+Ukraine,UKR,Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN,2848000000,..
+Ukraine,UKR,Net barter terms of trade index (2000 = 100),TT.PRI.MRCH.XD.WD,84.34222607,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD,119999.997317791,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD,14229999.5422363,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD,3069999.9332428,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,-103800003.051758,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",DC.DAC.CZEL.CD,3200000.04768372,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD,24899999.6185303,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD,412970001.220703,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD,8899999.61853027,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD,12600000.3814697,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,205100006.103516,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Greece (current US$)",DC.DAC.GRCL.CD,330000.013113022,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Hungary (current US$)",DC.DAC.HUNL.CD,7860000.1335144,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Iceland (current US$)",DC.DAC.ISLL.CD,..,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD,280000.001192093,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,769999.980926514,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,579999.983310699,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD,850000.023841858,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD,1080000.04291534,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD,2279999.97138977,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD,..,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD,25850000.3814697,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD,81410003.6621094,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD,129999.995231628,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",DC.DAC.SVKL.CD,1419999.95708466,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",DC.DAC.SVNL.CD,1710000.03814697,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD,19379999.1607666,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD,36040000.9155273,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD,31290000.9155273,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,1027230016.52211,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,36580001.8310547,..
+Ukraine,UKR,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,198100006.103516,..
+Ukraine,UKR,"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD,38000000,-3000000
+Ukraine,UKR,Net domestic credit (current LCU),FM.AST.DOMS.CN,1648996726922.72,1828302911112.3
+Ukraine,UKR,"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD,1194000000,916000000
+Ukraine,UKR,"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD,-2892000000,7137000000
+Ukraine,UKR,"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD,43181561,..
+Ukraine,UKR,"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD,-2228000,..
+Ukraine,UKR,"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,..,..
+Ukraine,UKR,"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD,..,..
+Ukraine,UKR,"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD,-1593082211,..
+Ukraine,UKR,"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD,-532995000,..
+Ukraine,UKR,"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD,-485758137,..
+Ukraine,UKR,"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD,..,..
+Ukraine,UKR,"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,-45009127,..
+Ukraine,UKR,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD,1887642000,..
+Ukraine,UKR,Net foreign assets (current LCU),FM.AST.NFRG.CN,534487870440.48,732884786560.011
+Ukraine,UKR,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,1.79038543213474,..
+Ukraine,UKR,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,71228700000,..
+Ukraine,UKR,Net intake rate in grade 1 (% of official school-age population),SE.PRM.NINT.ZS,..,..
+Ukraine,UKR,"Net intake rate in grade 1, female (% of official school-age population)",SE.PRM.NINT.FE.ZS,..,..
+Ukraine,UKR,"Net intake rate in grade 1, male (% of official school-age population)",SE.PRM.NINT.MA.ZS,..,..
+Ukraine,UKR,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,..,..
+Ukraine,UKR,Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN,..,..
+Ukraine,UKR,Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS,-1.71879887066837,..
+Ukraine,UKR,Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN,-68380700000,..
+Ukraine,UKR,Net migration,SM.POP.NETM,..,..
+Ukraine,UKR,Net ODA provided to the least developed countries (% of GNI),DC.ODA.TLDC.GN.ZS,..,..
+Ukraine,UKR,"Net ODA provided, to the least developed countries (current US$)",DC.ODA.TLDC.CD,..,..
+Ukraine,UKR,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,..,..
+Ukraine,UKR,"Net ODA provided, total (constant 2015 US$)",DC.ODA.TOTL.KD,..,..
+Ukraine,UKR,"Net ODA provided, total (current US$)",DC.ODA.TOTL.CD,..,..
+Ukraine,UKR,Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS,2.25723437847735,..
+Ukraine,UKR,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,0.724245271829823,..
+Ukraine,UKR,Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS,5.01118846237625,..
+Ukraine,UKR,"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS,1.31321622178,..
+Ukraine,UKR,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,25.869525266669,..
+Ukraine,UKR,Net official aid received (constant 2018 US$),DT.ODA.OATL.KD,..,..
+Ukraine,UKR,Net official aid received (current US$),DT.ODA.OATL.CD,..,..
+Ukraine,UKR,Net official development assistance and official aid received (constant 2018 US$),DT.ODA.ALLD.KD,1181150024.41406,..
+Ukraine,UKR,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,1148250000,..
+Ukraine,UKR,Net official development assistance received (constant 2018 US$),DT.ODA.ODAT.KD,1181150024.41406,..
+Ukraine,UKR,Net official development assistance received (current US$),DT.ODA.ODAT.CD,1148250000,..
+Ukraine,UKR,"Net official flows from UN agencies, FAO (current US$)",DT.NFL.FAOG.CD,218339.383602142,..
+Ukraine,UKR,"Net official flows from UN agencies, IAEA (current US$)",DT.NFL.IAEA.CD,241426.61690712,..
+Ukraine,UKR,"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD,1444990.03887177,..
+Ukraine,UKR,"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD,859245.06187439,..
+Ukraine,UKR,"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD,350047.945976257,..
+Ukraine,UKR,"Net official flows from UN agencies, UNECE (current US$)",DT.NFL.UNEC.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, UNEP (current US$)",DT.NFL.UNEP.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD,1351122.85614014,..
+Ukraine,UKR,"Net official flows from UN agencies, UNHCR (current US$)",DT.NFL.UNCR.CD,6456300.73547363,..
+Ukraine,UKR,"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD,28622999.1912842,..
+Ukraine,UKR,"Net official flows from UN agencies, UNIDIR (current US$)",DT.NFL.UNID.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, UNPBF (current US$)",DT.NFL.UNPB.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, UNRWA (current US$)",DT.NFL.UNRW.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, UNTA (current US$)",DT.NFL.UNTA.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, UNWTO (current US$)",DT.NFL.UNWT.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD,..,..
+Ukraine,UKR,"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD,1507095.45612335,..
+Ukraine,UKR,"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD,1924000000,4252000000
+Ukraine,UKR,Net primary income (Net income from abroad) (constant LCU),NY.GSR.NFCY.KN,..,..
+Ukraine,UKR,Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN,119273666666.667,65080000000
+Ukraine,UKR,Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,4614853850.04283,2414170453.49161
+Ukraine,UKR,"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD,6463000000,3762000000
+Ukraine,UKR,Net secondary income (Net current transfers from abroad) (constant LCU),NY.TRF.NCTR.KN,..,..
+Ukraine,UKR,Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN,122844086100,114623290000
+Ukraine,UKR,Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD,4752998038.35082,4252000000
+Ukraine,UKR,"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD,-14261000000,-6604000000
+Ukraine,UKR,"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD,-12511000000,-1790000000
+Ukraine,UKR,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,..,..
+Ukraine,UKR,New businesses registered (number),IC.BUS.NREG,..,..
+Ukraine,UKR,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,..,..
+Ukraine,UKR,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,..,..
+Ukraine,UKR,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,..,..
+Ukraine,UKR,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,..,..
+Ukraine,UKR,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,..,..
+Ukraine,UKR,Number of deaths ages 10-14 years,SH.DTH.1014,440,..
+Ukraine,UKR,Number of deaths ages 15-19 years,SH.DTH.1519,930,..
+Ukraine,UKR,Number of deaths ages 20-24 years,SH.DTH.2024,1683,..
+Ukraine,UKR,Number of deaths ages 5-9 years,SH.DTH.0509,383,..
+Ukraine,UKR,Number of infant deaths,SH.DTH.IMRT,2972,..
+Ukraine,UKR,Number of maternal deaths,SH.MMR.DTHS,..,..
+Ukraine,UKR,Number of neonatal deaths,SH.DTH.NMRT,2047,..
+Ukraine,UKR,Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO,..,..
+Ukraine,UKR,Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO,..,..
+Ukraine,UKR,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO,..,..
+Ukraine,UKR,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO,..,..
+Ukraine,UKR,"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,..,..
+Ukraine,UKR,Number of under-five deaths,SH.DTH.MORT,3514,..
+Ukraine,UKR,"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,..,..
+Ukraine,UKR,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,25.8455893333333,26.9575243833333
+Ukraine,UKR,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.301224930176162,..
+Ukraine,UKR,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,..,..
+Ukraine,UKR,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,..,..
+Ukraine,UKR,Other expense (% of expense),GC.XPN.OTHR.ZS,2.44066634833222,..
+Ukraine,UKR,Other expense (current LCU),GC.XPN.OTHR.CN,32088900000,..
+Ukraine,UKR,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,..,..
+Ukraine,UKR,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,..,..
+Ukraine,UKR,Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN,..,..
+Ukraine,UKR,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,7.82864351919446E-05,..
+Ukraine,UKR,Other taxes (current LCU),GC.TAX.OTHR.CN,1000000,..
+Ukraine,UKR,Other taxes payable by businesses (% of commercial profits),IC.TAX.OTHR.CP.ZS,1.1,..
+Ukraine,UKR,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,..,..
+Ukraine,UKR,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,..,..
+Ukraine,UKR,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,..,..
+Ukraine,UKR,"Over-age students, primary (% of enrollment)",SE.PRM.OENR.ZS,..,..
+Ukraine,UKR,"Over-age students, primary, female (% of female enrollment)",SE.PRM.OENR.FE.ZS,..,..
+Ukraine,UKR,"Over-age students, primary, male (% of male enrollment)",SE.PRM.OENR.MA.ZS,..,..
+Ukraine,UKR,"Part time employment, female (% of total female employment)",SL.TLF.PART.FE.ZS,..,..
+Ukraine,UKR,"Part time employment, male (% of total male employment)",SL.TLF.PART.MA.ZS,..,..
+Ukraine,UKR,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,..,..
+Ukraine,UKR,"Patent applications, nonresidents",IP.PAT.NRES,1755,..
+Ukraine,UKR,"Patent applications, residents",IP.PAT.RESD,2097,..
+Ukraine,UKR,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0
+Ukraine,UKR,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,0,0
+Ukraine,UKR,"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS,0,0
+Ukraine,UKR,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,93.86696022,93.92828195
+Ukraine,UKR,"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS,99.7349565,100
+Ukraine,UKR,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,91.2885178,91.27727011
+Ukraine,UKR,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,97.74159541,97.74271759
+Ukraine,UKR,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,97.16524117,97.16524117
+Ukraine,UKR,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,97.99485328,97.99485328
+Ukraine,UKR,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,88.95686539,89.02047539
+Ukraine,UKR,"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS,89.51212346,89.75
+Ukraine,UKR,"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS,88.7128833,88.70195296
+Ukraine,UKR,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,71.97733771,71.96382102
+Ukraine,UKR,"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS,..,..
+Ukraine,UKR,"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS,68.91224393,68.91224393
+Ukraine,UKR,People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,..,..
+Ukraine,UKR,"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS,..,..
+Ukraine,UKR,"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,..,..
+Ukraine,UKR,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,76.6666,76.6666
+Ukraine,UKR,Permanent cropland (% of land area),AG.LND.CROP.ZS,..,..
+Ukraine,UKR,"Persistence to grade 5, female (% of cohort)",SE.PRM.PRS5.FE.ZS,..,..
+Ukraine,UKR,"Persistence to grade 5, male (% of cohort)",SE.PRM.PRS5.MA.ZS,..,..
+Ukraine,UKR,"Persistence to grade 5, total (% of cohort)",SE.PRM.PRS5.ZS,..,..
+Ukraine,UKR,"Persistence to last grade of primary, female (% of cohort)",SE.PRM.PRSL.FE.ZS,..,..
+Ukraine,UKR,"Persistence to last grade of primary, male (% of cohort)",SE.PRM.PRSL.MA.ZS,..,..
+Ukraine,UKR,"Persistence to last grade of primary, total (% of cohort)",SE.PRM.PRSL.ZS,..,..
+Ukraine,UKR,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,575000000,843000000
+Ukraine,UKR,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,10.256643339312,9.67592597891039
+Ukraine,UKR,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,15788000000,15054000000
+Ukraine,UKR,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,3014000000,3446000000
+Ukraine,UKR,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,..,..
+Ukraine,UKR,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,..,..
+Ukraine,UKR,"Plant species (higher), threatened",EN.HPT.THRD.NO,..,..
+Ukraine,UKR,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,..,..
+Ukraine,UKR,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,..,..
+Ukraine,UKR,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,..,..
+Ukraine,UKR,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,..,..
+Ukraine,UKR,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,..,..
+Ukraine,UKR,"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD,536699000,..
+Ukraine,UKR,"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD,1350943000,..
+Ukraine,UKR,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,4.48906651896156,4.37274513219958
+Ukraine,UKR,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,5.51483258054127,5.36708314028995
+Ukraine,UKR,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,15.9397183747341,15.9905178063575
+Ukraine,UKR,"Population ages 0-14, female",SP.POP.0014.FE.IN,3432678,3424732
+Ukraine,UKR,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,14.407680496235,14.4590228179403
+Ukraine,UKR,"Population ages 0-14, male",SP.POP.0014.MA.IN,3642367,3632633
+Ukraine,UKR,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,17.7150445337836,17.764431271982
+Ukraine,UKR,"Population ages 0-14, total",SP.POP.0014.TO,7075036,7057366
+Ukraine,UKR,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,5.14438936557099,5.11705042531701
+Ukraine,UKR,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,6.32630916604785,6.29052307173594
+Ukraine,UKR,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,4.77422461170241,4.96922726042369
+Ukraine,UKR,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,5.87390278719446,6.10682505995613
+Ukraine,UKR,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,4.01347978498066,4.08475944661177
+Ukraine,UKR,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,4.94353924621411,5.03898012293055
+Ukraine,UKR,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,67.3552912355191,67.0603388750321
+Ukraine,UKR,"Population ages 15-64, female",SP.POP.1564.FE.IN,15457869,15277177
+Ukraine,UKR,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,64.8799641916745,64.499360498114
+Ukraine,UKR,"Population ages 15-64, male",SP.POP.1564.MA.IN,14438601,14319699
+Ukraine,UKR,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,70.2236952183625,70.0267006883629
+Ukraine,UKR,"Population ages 15-64, total",SP.POP.1564.TO,29896456,29596875
+Ukraine,UKR,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,4.61679247855778,4.45343327448953
+Ukraine,UKR,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,5.62675158666831,5.43251719821619
+Ukraine,UKR,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,6.05693845592264,5.72504482307683
+Ukraine,UKR,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,7.35272245386837,6.95223170654431
+Ukraine,UKR,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,7.62488238218527,7.49851377963701
+Ukraine,UKR,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,9.16251971451232,9.00594024186173
+Ukraine,UKR,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,7.56225592450778,7.64894872144573
+Ukraine,UKR,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,8.85998803769935,9.02559168002918
+Ukraine,UKR,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,7.16411274032781,7.28644857179048
+Ukraine,UKR,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,7.8578006413752,8.0294384663232
+Ukraine,UKR,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,6.65974722438896,6.79850643854138
+Ukraine,UKR,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,7.10211672070835,7.27212770690911
+Ukraine,UKR,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,6.5110385007254,6.40799679224371
+Ukraine,UKR,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,6.4708254169005,6.41046494848678
+Ukraine,UKR,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,7.42158882929304,7.34409513241901
+Ukraine,UKR,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,6.85669278649914,6.81076306603495
+Ukraine,UKR,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,7.24912787078513,7.25161351785857
+Ukraine,UKR,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,5.99073861391687,6.04864555102692
+Ukraine,UKR,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.7049903897468,16.9491433186105
+Ukraine,UKR,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,4934788,4983871
+Ukraine,UKR,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,20.7123553120906,21.0416166839457
+Ukraine,UKR,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,2479900,2496581
+Ukraine,UKR,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,12.0612602478539,12.208868039655
+Ukraine,UKR,"Population ages 65 and above, total",SP.POP.65UP.TO,7414711,7480452
+Ukraine,UKR,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,6.62919411788121,6.87147854821504
+Ukraine,UKR,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,4.77210315725145,4.93227409679878
+Ukraine,UKR,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,4.572912881935,4.8387236276039
+Ukraine,UKR,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,2.96257087496295,3.12586672120245
+Ukraine,UKR,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,3.73836208247264,3.56864591211537
+Ukraine,UKR,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,1.93866016049935,1.859385323544
+Ukraine,UKR,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,5.77188622980171,5.76276859601141
+Ukraine,UKR,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,2.38792605514013,2.29134189810981
+Ukraine,UKR,Population density (people per sq. km of land area),EN.POP.DNST,76.6071850189852,76.1730980324474
+Ukraine,UKR,Population growth (annual %),SP.POP.GROW,-0.530994160113763,-0.568251538691365
+Ukraine,UKR,Population in largest city,EN.URB.LCTY,2973335,2988176
+Ukraine,UKR,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,9.64228118906253,9.72673108608083
+Ukraine,UKR,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5415973,5426469
+Ukraine,UKR,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.2019290543956,12.2952458284914
+Ukraine,UKR,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,..,..
+Ukraine,UKR,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..
+Ukraine,UKR,"Population, female",SP.POP.TOTL.FE.IN,23825336,23685780
+Ukraine,UKR,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6773460656577,53.6670332865739
+Ukraine,UKR,"Population, male",SP.POP.TOTL.MA.IN,20560867,20448913
+Ukraine,UKR,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,46.3226539343423,46.3329667134261
+Ukraine,UKR,"Population, total",SP.POP.TOTL,44386203,44134693
+Ukraine,UKR,"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD,49000000,173000000
+Ukraine,UKR,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,2550720000,..
+Ukraine,UKR,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,-5134000000,829000000
+Ukraine,UKR,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,0,..
+Ukraine,UKR,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,0,..
+Ukraine,UKR,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,0.4,..
+Ukraine,UKR,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0,..
+Ukraine,UKR,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,0.2,..
+Ukraine,UKR,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.5,..
+Ukraine,UKR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,1.1,..
+Ukraine,UKR,Power outages in firms in a typical month (number),IC.ELC.OUTG,0.5,..
+Ukraine,UKR,"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD,2014021000,..
+Ukraine,UKR,"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD,962074000,..
+Ukraine,UKR,"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD,5281571000,..
+Ukraine,UKR,"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD,..,..
+Ukraine,UKR,"PPG, official creditors (NFL, current US$)",DT.NFL.OFFT.CD,-489813703,..
+Ukraine,UKR,"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD,-150744000,..
+Ukraine,UKR,"PPG, private creditors (NFL, current US$)",DT.NFL.PRVT.CD,2825351000,..
+Ukraine,UKR,"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP,7.09046596838208,7.69479444776784
+Ukraine,UKR,"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP,8.0403717724044,8.15942095173955
+Ukraine,UKR,Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS,..,..
+Ukraine,UKR,"Preprimary education, duration (years)",SE.PRE.DURS,5,..
+Ukraine,UKR,"Present value of external debt (% of exports of goods, services and primary income)",DT.DOD.PVLX.EX.ZS,72.6741694701239,..
+Ukraine,UKR,Present value of external debt (% of GNI),DT.DOD.PVLX.GN.ZS,35.2295421301158,..
+Ukraine,UKR,Present value of external debt (current US$),DT.DOD.PVLX.CD,55850825979.4849,..
+Ukraine,UKR,Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,25.6,..
+Ukraine,UKR,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS,17.5,..
+Ukraine,UKR,Prevalence of anemia among pregnant women (%),SH.PRG.ANEM,23.2,..
+Ukraine,UKR,Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS,17.7,..
+Ukraine,UKR,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,..,..
+Ukraine,UKR,"Prevalence of current tobacco use, females (% of female adults)",SH.PRV.SMOK.FE,..,..
+Ukraine,UKR,"Prevalence of current tobacco use, males (% of male adults)",SH.PRV.SMOK.MA,..,..
+Ukraine,UKR,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1,0.1
+Ukraine,UKR,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1,0.1
+Ukraine,UKR,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,1,1
+Ukraine,UKR,Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,..,..
+Ukraine,UKR,"Prevalence of overweight (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.ZS,17.6,17
+Ukraine,UKR,"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS,..,..
+Ukraine,UKR,"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS,..,..
+Ukraine,UKR,"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS,..,..
+Ukraine,UKR,Prevalence of severe food insecurity in the population (%),SN.ITK.SVFI.ZS,2.5,..
+Ukraine,UKR,"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS,..,..
+Ukraine,UKR,"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS,..,..
+Ukraine,UKR,"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS,..,..
+Ukraine,UKR,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,..,..
+Ukraine,UKR,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",SH.STA.STNT.ME.ZS,17.5,15.9
+Ukraine,UKR,"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS,..,..
+Ukraine,UKR,"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS,..,..
+Ukraine,UKR,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5,..
+Ukraine,UKR,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..
+Ukraine,UKR,"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS,..,..
+Ukraine,UKR,"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS,..,..
+Ukraine,UKR,"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS,..,..
+Ukraine,UKR,"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS,..,..
+Ukraine,UKR,"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS,..,..
+Ukraine,UKR,Price level ratio of PPP conversion factor (GDP) to market exchange rate,PA.NUS.PPPC.RF,0.274339383430142,0.285441693323485
+Ukraine,UKR,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..
+Ukraine,UKR,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..
+Ukraine,UKR,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..
+Ukraine,UKR,"Primary education, duration (years)",SE.PRM.DURS,4,4
+Ukraine,UKR,"Primary education, pupils",SE.PRM.ENRL,1724664,..
+Ukraine,UKR,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,..,..
+Ukraine,UKR,"Primary education, teachers",SE.PRM.TCHR,108283,..
+Ukraine,UKR,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,98.4799118041992,..
+Ukraine,UKR,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,..,..
+Ukraine,UKR,"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD,11371000000,7796000000
+Ukraine,UKR,"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD,13295000000,12048000000
+Ukraine,UKR,Primary school starting age (years),SE.PRM.AGES,6,6
+Ukraine,UKR,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,56.9,..
+Ukraine,UKR,"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014,0.9,..
+Ukraine,UKR,"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519,2.4,..
+Ukraine,UKR,"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509,0.8,..
+Ukraine,UKR,"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024,3.8,..
+Ukraine,UKR,Procedures to build a warehouse (number),IC.WRH.PROC,10,..
+Ukraine,UKR,Procedures to register property (number),IC.PRP.PROC,7,..
+Ukraine,UKR,Profit tax (% of commercial profits),IC.TAX.PRFT.CP.ZS,10.2,..
+Ukraine,UKR,Progression to secondary school (%),SE.SEC.PROG.ZS,..,..
+Ukraine,UKR,"Progression to secondary school, female (%)",SE.SEC.PROG.FE.ZS,..,..
+Ukraine,UKR,"Progression to secondary school, male (%)",SE.SEC.PROG.MA.ZS,..,..
+Ukraine,UKR,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.1,..
+Ukraine,UKR,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..
+Ukraine,UKR,Proportion of population pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..
+Ukraine,UKR,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..
+Ukraine,UKR,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.25.ZS,..,..
+Ukraine,UKR,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.5188679245283,20.8037825059102
+Ukraine,UKR,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",SG.TIM.UWRK.FE,..,..
+Ukraine,UKR,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",SG.TIM.UWRK.MA,..,..
+Ukraine,UKR,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of women age 15-49),SG.VAW.1549.ZS,..,..
+Ukraine,UKR,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS,6.08561954548412,..
+Ukraine,UKR,Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS,2.9498744725951,..
+Ukraine,UKR,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,2.4,..
+Ukraine,UKR,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,1409010000,15000000
+Ukraine,UKR,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,..,..
+Ukraine,UKR,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,..,15000000
+Ukraine,UKR,Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD,..,..
+Ukraine,UKR,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,..,..
+Ukraine,UKR,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,..,..
+Ukraine,UKR,"Pupil-teacher ratio, lower secondary",SE.SEC.ENRL.LO.TC.ZS,..,..
+Ukraine,UKR,"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS,..,..
+Ukraine,UKR,"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS,..,..
+Ukraine,UKR,"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS,..,..
+Ukraine,UKR,"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS,..,..
+Ukraine,UKR,"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS,..,..
+Ukraine,UKR,Rail lines (total route-km),IS.RRS.TOTL.KM,..,..
+Ukraine,UKR,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,181844,..
+Ukraine,UKR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,..,..
+Ukraine,UKR,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS,74.4559173947577,..
+Ukraine,UKR,Ratio of female to male labor force participation rate (%) (national estimate),SL.TLF.CACT.FM.NE.ZS,75.9993826207748,..
+Ukraine,UKR,Real effective exchange rate index (2010 = 100),PX.REX.REER,91.6451302996954,91.0487398064955
+Ukraine,UKR,Real interest rate (%),FR.INR.RINR,10.6929136687769,4.05576701148435
+Ukraine,UKR,Refugee population by country or territory of asylum,SM.POP.REFG,2166,2274
+Ukraine,UKR,Refugee population by country or territory of origin,SM.POP.REFG.OR,59844,35180
+Ukraine,UKR,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..
+Ukraine,UKR,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,..,..
+Ukraine,UKR,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,..,..
+Ukraine,UKR,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,..,..
+Ukraine,UKR,"Repeaters, primary, female (% of female enrollment)",SE.PRM.REPT.FE.ZS,..,..
+Ukraine,UKR,"Repeaters, primary, male (% of male enrollment)",SE.PRM.REPT.MA.ZS,..,..
+Ukraine,UKR,"Repeaters, primary, total (% of total enrollment)",SE.PRM.REPT.ZS,..,..
+Ukraine,UKR,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,..,..
+Ukraine,UKR,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,..,..
+Ukraine,UKR,"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD,5979005307.78239,1991885391.71888
+Ukraine,UKR,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,31.856213397663,..
+Ukraine,UKR,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,1267367700000,..
+Ukraine,UKR,Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS,12,7.5
+Ukraine,UKR,Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS,1.3,0.8
+Ukraine,UKR,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK,..,..
+Ukraine,UKR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..
+Ukraine,UKR,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..
+Ukraine,UKR,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..
+Ukraine,UKR,Rural population,SP.RUR.TOTL,13549776,13413416
+Ukraine,UKR,Rural population (% of total population),SP.RUR.TOTL.ZS,30.527,30.392
+Ukraine,UKR,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.926580193876974,-1.01146156975002
+Ukraine,UKR,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,..,..
+Ukraine,UKR,S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG,-12.0456531816135,25.6585685853894
+Ukraine,UKR,"School enrollment, preprimary (% gross)",SE.PRE.ENRR,..,..
+Ukraine,UKR,"School enrollment, preprimary, female (% gross)",SE.PRE.ENRR.FE,..,..
+Ukraine,UKR,"School enrollment, preprimary, male (% gross)",SE.PRE.ENRR.MA,..,..
+Ukraine,UKR,"School enrollment, primary (% gross)",SE.PRM.ENRR,..,..
+Ukraine,UKR,"School enrollment, primary (% net)",SE.PRM.NENR,..,..
+Ukraine,UKR,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,..,..
+Ukraine,UKR,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,..,..
+Ukraine,UKR,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,..,..
+Ukraine,UKR,"School enrollment, primary, female (% net)",SE.PRM.NENR.FE,..,..
+Ukraine,UKR,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,..,..
+Ukraine,UKR,"School enrollment, primary, male (% net)",SE.PRM.NENR.MA,..,..
+Ukraine,UKR,"School enrollment, primary, private (% of total primary)",SE.PRM.PRIV.ZS,0.982050001621246,..
+Ukraine,UKR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,..,..
+Ukraine,UKR,"School enrollment, secondary (% net)",SE.SEC.NENR,..,..
+Ukraine,UKR,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,..,..
+Ukraine,UKR,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,..,..
+Ukraine,UKR,"School enrollment, secondary, female (% net)",SE.SEC.NENR.FE,..,..
+Ukraine,UKR,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,..,..
+Ukraine,UKR,"School enrollment, secondary, male (% net)",SE.SEC.NENR.MA,..,..
+Ukraine,UKR,"School enrollment, secondary, private (% of total secondary)",SE.SEC.PRIV.ZS,0.646950006484985,..
+Ukraine,UKR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,..,..
+Ukraine,UKR,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,..,..
+Ukraine,UKR,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,..,..
+Ukraine,UKR,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,..,..
+Ukraine,UKR,Scientific and technical journal articles,IP.JRN.ARTC.SC,..,..
+Ukraine,UKR,"Secondary education, duration (years)",SE.SEC.DURS,7,7
+Ukraine,UKR,"Secondary education, general pupils",SE.SEC.ENRL.GC,..,..
+Ukraine,UKR,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,..,..
+Ukraine,UKR,"Secondary education, pupils",SE.SEC.ENRL,2444548,..
+Ukraine,UKR,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,..,..
+Ukraine,UKR,"Secondary education, teachers",SE.SEC.TCHR,312000,..
+Ukraine,UKR,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,81.8564529418945,..
+Ukraine,UKR,"Secondary education, teachers, female",SE.SEC.TCHR.FE,255392.109375,..
+Ukraine,UKR,"Secondary education, vocational pupils",SE.SEC.ENRL.VO,..,..
+Ukraine,UKR,"Secondary education, vocational pupils (% female)",SE.SEC.ENRL.VO.FE.ZS,..,..
+Ukraine,UKR,"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD,7881000000,5319000000
+Ukraine,UKR,"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD,1380000000,1517000000
+Ukraine,UKR,Secure Internet servers,IT.NET.SECR,349187,395092
+Ukraine,UKR,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,7867.01669435433,8951.95985616123
+Ukraine,UKR,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,12.3999996185303,..
+Ukraine,UKR,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,17.2199993133545,..
+Ukraine,UKR,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,14.9399995803833,..
+Ukraine,UKR,"Service exports (BoP, current US$)",BX.GSR.NFSV.CD,17465000000,15509000000
+Ukraine,UKR,"Service imports (BoP, current US$)",BM.GSR.NFSV.CD,15715000000,10695000000
+Ukraine,UKR,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,54.4611188366245,55.6403969192929
+Ukraine,UKR,"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG,5.13791639159167,-2.41272931738287
+Ukraine,UKR,"Services, value added (constant 2010 US$)",NV.SRV.TOTL.KD,81765486423.4566,79792706561.0172
+Ukraine,UKR,"Services, value added (constant LCU)",NV.SRV.TOTL.KN,1342119576634.68,1309737864134.88
+Ukraine,UKR,"Services, value added (current LCU)",NV.SRV.TOTL.CN,2166681333333.33,2333615000000
+Ukraine,UKR,"Services, value added (current US$)",NV.SRV.TOTL.CD,..,..
+Ukraine,UKR,"Services, value added per worker (constant 2010 US$)",NV.SRV.EMPL.KD,7199.573062522,..
+Ukraine,UKR,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,1.062,..
+Ukraine,UKR,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,..,..
+Ukraine,UKR,"Share of tariff lines with international peaks, all products (%)",TM.TAX.MRCH.IP.ZS,1.717827,..
+Ukraine,UKR,"Share of tariff lines with international peaks, manufactured products (%)",TM.TAX.MANF.IP.ZS,0.0757434,..
+Ukraine,UKR,"Share of tariff lines with international peaks, primary products (%)",TM.TAX.TCOM.IP.ZS,7.992684,..
+Ukraine,UKR,"Share of tariff lines with specific rates, all products (%)",TM.TAX.MRCH.SR.ZS,0.0199926,..
+Ukraine,UKR,"Share of tariff lines with specific rates, manufactured products (%)",TM.TAX.MANF.SR.ZS,0,..
+Ukraine,UKR,"Share of tariff lines with specific rates, primary products (%)",TM.TAX.TCOM.SR.ZS,0.0963867,..
+Ukraine,UKR,"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS,..,..
+Ukraine,UKR,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,..,..
+Ukraine,UKR,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,..,..
+Ukraine,UKR,"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS,28.6598339644247,..
+Ukraine,UKR,Short-term debt (% of total external debt),DT.DOD.DSTC.ZS,17.7849,..
+Ukraine,UKR,Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS,86.9983270279096,..
+Ukraine,UKR,Social contributions (% of revenue),GC.REV.SOCL.ZS,21.8381420123763,..
+Ukraine,UKR,Social contributions (current LCU),GC.REV.SOCL.CN,278951800000,..
+Ukraine,UKR,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,40,40
+Ukraine,UKR,"Specialist surgical workforce (per 100,000 population)",SH.MED.SAOP.P5,..,..
+Ukraine,UKR,Start-up procedures to register a business (number),IC.REG.PROC,6,..
+Ukraine,UKR,"Start-up procedures to register a business, female (number)",IC.REG.PROC.FE,6,..
+Ukraine,UKR,"Start-up procedures to register a business, male (number)",IC.REG.PROC.MA,6,..
+Ukraine,UKR,Statistical Capacity score (Overall average),IQ.SCI.OVRL,72.2222,72.2222
+Ukraine,UKR,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,72.4841666666667,..
+Ukraine,UKR,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,100,..
+Ukraine,UKR,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,46.0666666666667,..
+Ukraine,UKR,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,67.3375,..
+Ukraine,UKR,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,49.0166666666667,..
+Ukraine,UKR,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,100,..
+Ukraine,UKR,"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS,0.000857535419805666,..
+Ukraine,UKR,"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD,1320000,..
+Ukraine,UKR,"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR,..,..
+Ukraine,UKR,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,8,..
+Ukraine,UKR,Subsidies and other transfers (% of expense),GC.XPN.TRFT.ZS,57.9035729568245,..
+Ukraine,UKR,Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN,761292900000,..
+Ukraine,UKR,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.6,..
+Ukraine,UKR,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,6.5,..
+Ukraine,UKR,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,39.2,..
+Ukraine,UKR,Surface area (sq. km),AG.SRF.TOTL.K2,..,..
+Ukraine,UKR,"Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",SI.SPR.PC40,8.93,..
+Ukraine,UKR,"Survey mean consumption or income per capita, total population (2011 PPP $ per day)",SI.SPR.PCAP,15.07,..
+Ukraine,UKR,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,84.4623188,..
+Ukraine,UKR,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,61.8572756,..
+Ukraine,UKR,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,4.31,..
+Ukraine,UKR,"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS,1.91,..
+Ukraine,UKR,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,20.91,..
+Ukraine,UKR,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,5.33,..
+Ukraine,UKR,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,1.82,..
+Ukraine,UKR,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,11.62,..
+Ukraine,UKR,"Tariff rate, most favored nation, simple mean, all products (%)",TM.TAX.MRCH.SM.FN.ZS,6.48,..
+Ukraine,UKR,"Tariff rate, most favored nation, simple mean, manufactured products (%)",TM.TAX.MANF.SM.FN.ZS,4.07,..
+Ukraine,UKR,"Tariff rate, most favored nation, simple mean, primary products (%)",TM.TAX.TCOM.SM.FN.ZS,13.48,..
+Ukraine,UKR,"Tariff rate, most favored nation, weighted mean, all products (%)",TM.TAX.MRCH.WM.FN.ZS,10.63,..
+Ukraine,UKR,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.FN.ZS,3.33,..
+Ukraine,UKR,"Tariff rate, most favored nation, weighted mean, primary products (%)",TM.TAX.TCOM.WM.FN.ZS,23.7,..
+Ukraine,UKR,Tax payments (number),IC.TAX.PAYM,5,..
+Ukraine,UKR,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,19.1903387299468,..
+Ukraine,UKR,Tax revenue (current LCU),GC.TAX.TOTL.CN,763468500000,..
+Ukraine,UKR,Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN,381925790268.4,360255887298.804
+Ukraine,UKR,Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN,555570000000,596874000000
+Ukraine,UKR,Taxes less subsidies on products (current US$),NY.TAX.NIND.CD,21495728479.896,22141296485.2082
+Ukraine,UKR,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,0.0302042585908914,..
+Ukraine,UKR,Taxes on exports (current LCU),GC.TAX.EXPT.CN,230600000,..
+Ukraine,UKR,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,40.3653862789714,..
+Ukraine,UKR,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,16.8168805621505,..
+Ukraine,UKR,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,515611500000,..
+Ukraine,UKR,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,16.9913113799902,..
+Ukraine,UKR,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,28.4281931736542,..
+Ukraine,UKR,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,217040300000,..
+Ukraine,UKR,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,2.41245130094441,..
+Ukraine,UKR,Taxes on international trade (current LCU),GC.TAX.INTT.CN,30815700000,..
+Ukraine,UKR,"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,397020000,..
+Ukraine,UKR,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,..,..
+Ukraine,UKR,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS,..,..
+Ukraine,UKR,Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN,83792038293.4851,226524368033.101
+Ukraine,UKR,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,..
+Ukraine,UKR,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,..,..
+Ukraine,UKR,"Tertiary education, academic staff (% female)",SE.TER.TCHR.FE.ZS,..,..
+Ukraine,UKR,Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN,..,..
+Ukraine,UKR,Time required to build a warehouse (days),IC.WRH.DURS,72.5,..
+Ukraine,UKR,Time required to enforce a contract (days),IC.LGL.DURS,378,..
+Ukraine,UKR,Time required to get electricity (days),IC.ELC.TIME,267,..
+Ukraine,UKR,Time required to obtain an operating license (days),IC.FRM.DURS,21.5,..
+Ukraine,UKR,Time required to register property (days),IC.PRP.DURS,15,..
+Ukraine,UKR,Time required to start a business (days),IC.REG.DURS,6.5,..
+Ukraine,UKR,"Time required to start a business, female (days)",IC.REG.DURS.FE,6.5,..
+Ukraine,UKR,"Time required to start a business, male (days)",IC.REG.DURS.MA,6.5,..
+Ukraine,UKR,Time spent dealing with the requirements of government regulations (% of senior management time),IC.GOV.DURS.ZS,10.8,..
+Ukraine,UKR,"Time to export, border compliance (hours)",IC.EXP.TMBC,6,..
+Ukraine,UKR,"Time to export, documentary compliance (hours)",IC.EXP.TMDC,66,..
+Ukraine,UKR,"Time to import, border compliance (hours)",IC.IMP.TMBC,32,..
+Ukraine,UKR,"Time to import, documentary compliance (hours)",IC.IMP.TMDC,48,..
+Ukraine,UKR,Time to obtain an electrical connection (days),IC.ELC.DURS,51.5,..
+Ukraine,UKR,Time to prepare and pay taxes (hours),IC.TAX.DURS,327.5,..
+Ukraine,UKR,Time to resolve insolvency (years),IC.ISV.DURS,2.9,..
+Ukraine,UKR,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..
+Ukraine,UKR,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..
+Ukraine,UKR,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..
+Ukraine,UKR,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,18.0296000163954,..
+Ukraine,UKR,Total debt service (% of GNI),DT.TDS.DECT.GN.ZS,8.739464641514,..
+Ukraine,UKR,Total fisheries production (metric tons),ER.FSH.PROD.MT,..,..
+Ukraine,UKR,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,..,..
+Ukraine,UKR,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,..,..
+Ukraine,UKR,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.81954356799314,..
+Ukraine,UKR,Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS,20.4428491192871,..
+Ukraine,UKR,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,25317002926.8886,29137541200.0461
+Ukraine,UKR,Total reserves in months of imports,FI.RES.TOTL.MO,3.47450805282215,4.97659366629974
+Ukraine,UKR,Total reserves minus gold (current US$),FI.RES.XGLD.CD,24083372926.8886,27549017200.0461
+Ukraine,UKR,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,45.2,..
+Ukraine,UKR,Trade (% of GDP),NE.TRD.GNFS.ZS,90.4086491714719,79.1331493606975
+Ukraine,UKR,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,21.555322143297,16.8425643916147
+Ukraine,UKR,"Trademark applications, direct nonresident",IP.TMK.NRES,10970,..
+Ukraine,UKR,"Trademark applications, direct resident",IP.TMK.RESD,29829,..
+Ukraine,UKR,"Trademark applications, nonresident, by count",IP.TMK.NRCT,25118,..
+Ukraine,UKR,"Trademark applications, resident, by count",IP.TMK.RSCT,54298,..
+Ukraine,UKR,"Trademark applications, total",IP.TMK.TOTL,40799,..
+Ukraine,UKR,Trained teachers in lower secondary education (% of total teachers),SE.SEC.TCAQ.LO.ZS,..,..
+Ukraine,UKR,"Trained teachers in lower secondary education, female (% of female teachers)",SE.SEC.TCAQ.LO.FE.ZS,..,..
+Ukraine,UKR,"Trained teachers in lower secondary education, male (% of male teachers)",SE.SEC.TCAQ.LO.MA.ZS,..,..
+Ukraine,UKR,Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS,..,..
+Ukraine,UKR,"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS,..,..
+Ukraine,UKR,"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS,..,..
+Ukraine,UKR,Trained teachers in primary education (% of total teachers),SE.PRM.TCAQ.ZS,89.11279296875,..
+Ukraine,UKR,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,89.10791015625,..
+Ukraine,UKR,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,89.4289169311523,..
+Ukraine,UKR,Trained teachers in secondary education (% of total teachers),SE.SEC.TCAQ.ZS,..,..
+Ukraine,UKR,"Trained teachers in secondary education, female (% of female teachers)",SE.SEC.TCAQ.FE.ZS,..,..
+Ukraine,UKR,"Trained teachers in secondary education, male (% of male teachers)",SE.SEC.TCAQ.MA.ZS,..,..
+Ukraine,UKR,Trained teachers in upper secondary education (% of total teachers),SE.SEC.TCAQ.UP.ZS,..,..
+Ukraine,UKR,"Trained teachers in upper secondary education, female (% of female teachers)",SE.SEC.TCAQ.UP.FE.ZS,..,..
+Ukraine,UKR,"Trained teachers in upper secondary education, male (% of male teachers)",SE.SEC.TCAQ.UP.MA.ZS,..,..
+Ukraine,UKR,Transport services (% of commercial service exports),TX.VAL.TRAN.ZS.WT,36.4521394426956,33.0465055176038
+Ukraine,UKR,Transport services (% of commercial service imports),TM.VAL.TRAN.ZS.WT,16.8813741277509,18.3530354638349
+Ukraine,UKR,"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS,35.80303464071,32.4392288348701
+Ukraine,UKR,"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS,16.0101813553929,17.1294997662459
+Ukraine,UKR,Travel services (% of commercial service exports),TX.VAL.TRVL.ZS.WT,9.44386149003148,2.45664739884393
+Ukraine,UKR,Travel services (% of commercial service imports),TM.VAL.TRVL.ZS.WT,57.1457326892109,46.4636345421759
+Ukraine,UKR,"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS,9.27569424563412,2.41150299825908
+Ukraine,UKR,"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS,54.1966274260261,43.3660589060309
+Ukraine,UKR,"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS,75,..
+Ukraine,UKR,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,..,..
+Ukraine,UKR,UHC service coverage index,SH.UHC.SRVS.CV.XD,..,..
+Ukraine,UKR,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,7.05999994277954,..
+Ukraine,UKR,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,6.94999980926514,..
+Ukraine,UKR,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,7.19999980926514,..
+Ukraine,UKR,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,9.94999980926514,..
+Ukraine,UKR,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,9.15999984741211,..
+Ukraine,UKR,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,10.5699996948242,..
+Ukraine,UKR,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,9.15999984741211,..
+Ukraine,UKR,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,9.47999954223633,..
+Ukraine,UKR,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,8.98999977111816,..
+Ukraine,UKR,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.85,..
+Ukraine,UKR,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,7.86,..
+Ukraine,UKR,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.5,..
+Ukraine,UKR,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,8.5,..
+Ukraine,UKR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.19,9.48
+Ukraine,UKR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.19,..
+Ukraine,UKR,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,15.43,..
+Ukraine,UKR,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,15.33,..
+Ukraine,UKR,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,15.61,..
+Ukraine,UKR,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,15.48,..
+Ukraine,UKR,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,15.53,..
+Ukraine,UKR,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,15.41,..
+Ukraine,UKR,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT,..,..
+Ukraine,UKR,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..
+Ukraine,UKR,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..
+Ukraine,UKR,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..
+Ukraine,UKR,Urban population,SP.URB.TOTL,30836427,30721277
+Ukraine,UKR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.473,69.608
+Ukraine,UKR,Urban population growth (annual %),SP.URB.GROW,-0.356674336327923,-0.374120952625126
+Ukraine,UKR,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,..,..
+Ukraine,UKR,"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD,11328387888.2,..
+Ukraine,UKR,Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS,..,..
+Ukraine,UKR,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0.8,..
+Ukraine,UKR,Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS,..,..
+Ukraine,UKR,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.8399996608495,..
+Ukraine,UKR,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,16.2799992412328,..
+Ukraine,UKR,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.1799998134374,..
+Ukraine,UKR,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,87.5999984741211,..
+Ukraine,UKR,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,82.7799987792969,..
+Ukraine,UKR,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.0599975585938,..
+Ukraine,UKR,Wanted fertility rate (births per woman),SP.DYN.WFRT,..,..
+Ukraine,UKR,"Water productivity, total (constant 2010 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,..,..
+Ukraine,UKR,Wholesale price index (2010 = 100),FP.WPI.TOTL,..,..
+Ukraine,UKR,Women Business and the Law Index Score (scale 1-100),SG.LAW.INDX,79.375,79.375
+Ukraine,UKR,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care  (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..
+Ukraine,UKR,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",SG.DMK.ALLD.FN.ZS,..,..
+Ukraine,UKR,Women who believe a husband is justified in beating his wife (any of five reasons) (%),SG.VAW.REAS.ZS,..,..
+Ukraine,UKR,Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS,..,..
+Ukraine,UKR,Women who believe a husband is justified in beating his wife when she burns the food (%),SG.VAW.BURN.ZS,..,..
+Ukraine,UKR,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),SG.VAW.GOES.ZS,..,..
+Ukraine,UKR,Women who believe a husband is justified in beating his wife when she neglects the children (%),SG.VAW.NEGL.ZS,..,..
+Ukraine,UKR,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),SG.VAW.REFU.ZS,..,..
+Ukraine,UKR,Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS,..,..
+Ukraine,UKR,Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS,..,..
+Ukraine,UKR,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,46.9,47
+Ukraine,UKR,Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG,1000,1000
+,,,,,
+,,,,,
+,,,,,
+Data from database: World Development Indicators,,,,,
+Last Updated: 09/15/2021,,,,,
